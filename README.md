@@ -18,7 +18,6 @@ Some methods to troubleshoot:
 1. see others as your teammates and not your competition
 1. ~~I love a strikethrough~~
 
-:grinning:
 
 <!--i can hide things using html?-->
 
