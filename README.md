@@ -2,7 +2,7 @@
 
 ## growth mindset
 
-![check out this picture] (http://1.bp.blogspot.com/-0eyqmM-se1Q/VjKADy4KmRI/AAAAAAAAADQ/fRpPpNQ44UU/s1600/Growth-v-Fixed.jpg)
+![check out this picture](http://1.bp.blogspot.com/-0eyqmM-se1Q/VjKADy4KmRI/AAAAAAAAADQ/fRpPpNQ44UU/s1600/Growth-v-Fixed.jpg)
 
 -*when we're growing, we're more productive!*
 -**Your fundamental abilities can be developed via hard work**
