@@ -17,3 +17,5 @@ Some methods to troubleshoot:
 1. look at the good, bad, and ugly parts of your day to learn
 1. see others as your teammates and not your competition
 1. ~~I love a strikethrough~~
+
+:grinning: :grinning: :grinning: :grinning:
