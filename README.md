@@ -1,6 +1,6 @@
 # reading-notes
 
-##growth mindset
+##growth mindset##
 
 -*when we're growing, we're more productive!*
 -**Your fundamental abilities can be developed via hard work**
