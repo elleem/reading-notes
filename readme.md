@@ -58,3 +58,17 @@ My name is Lauren. I live in Seattle and I am currently an analyst with King Cou
 - pwd print working directory
 - ls list
 - pwd print working directory
+- square brackets [] means that the command is optional
+- "-l" is long listing
+
+#### paths ####
+1. absolute
+2. relative
+3. root directory "/"
+4. relative paths do not start with "/"
+5. ~ tilde
+6. . (dot)
+7. ..(dotdot)
+8. cd change directory
+9. >>insert.html inserts into folder
+10. look at /etc /var/log /bin /usr/bin
