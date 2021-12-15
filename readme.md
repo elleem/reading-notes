@@ -44,4 +44,17 @@ My name is Lauren. I live in Seattle and I am currently an analyst with King Cou
 
 #### a text based interface to the system ####
 - user@bash
+- command line arguments
 - options are used to modify the behaviour of the command, usu listed before other arguments and typically start with a dash (-)
+- provides the information
+- prompts us for the next command
+
+#### the shell ####
+- part of the system that defines how the terminal will behave
+
+#### commands ####
+- echo
+- use up and down keys to navigate, don't re-enter
+- pwd print working directory
+- ls list
+- pwd print working directory
