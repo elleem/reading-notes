@@ -67,8 +67,19 @@ My name is Lauren. I live in Seattle and I am currently an analyst with King Cou
 3. root directory "/"
 4. relative paths do not start with "/"
 5. ~ tilde
-6. . (dot)
+6. . (dot) hidden
 7. ..(dotdot)
 8. cd change directory
-9. >>insert.html inserts into folder
+9. ">> " insert.html inserts into folder
 10. look at /etc /var/log /bin /usr/bin
+
+#### everything is a file ####
+- file.exe
+- file.text and so forth
+
+#### be careful ####
+ - spaces
+ - case
+ - use quotes to search for an item with a space in the title
+ - use \ to negate the space 
+
