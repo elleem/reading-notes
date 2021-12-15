@@ -25,3 +25,23 @@ Some methods to troubleshoot:
 
 My name is Lauren. I live in Seattle and I am currently an analyst with King County government. I have two corgis! Thanks for taking the time to look at my page.  Here is my [github page](https://github.com/elleem).
 
+## Different Types of Texts Editors
+* the basic *plain* text editor that came with your computer
+* third party options
+> * NotePad
+> * TextWranger
+> * BB Edit
+> * Visual Studio Code
+> * Atom
+> * Brackets
+> * Sublime text
+
+*An IDE is a suite of different software, such as a text editor, file manager, compiler, and a debugger (MS Outlook).*
+
+## Cheat Sheet ##
+
+### The Command Line ###
+
+#### a text based interface to the system ####
+- user@bash
+- options are used to modify the behaviour of the command, usu listed before other arguments and typically start with a dash (-)
