@@ -57,7 +57,7 @@ My name is Lauren. I live in Seattle and I am currently an analyst with King Cou
 - use up and down keys to navigate, don't re-enter
 - pwd print working directory
 - ls list
-- pwd print working directory
+- cd change directory
 - square brackets [] means that the command is optional
 - "-l" is long listing
 
