@@ -54,6 +54,7 @@ My name is Lauren. I live in Seattle and I am currently an analyst with King Cou
 
 #### commands ####
 - echo
+- mkdir 
 - use up and down keys to navigate, don't re-enter
 - pwd print working directory
 - ls list
