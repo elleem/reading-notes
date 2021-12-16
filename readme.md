@@ -106,3 +106,28 @@ My name is Lauren. I live in Seattle and I am currently an analyst with King Cou
 
 ### Cloning ###
 git clone 
+
+### Local repository structure ###
+Working Directory: The actual files reside here.
+Index: The area used for staging
+
+### saving changes ###
+files are tracked or untracked
+
+### check file status ###
+- git status
+- git add filename (specify file)
+- git add (tracks all) 
+
+### committing a file ###
+- commit changes and record what you did with the commit message
+- git commit -m 'made change x,y,z'
+- git commit -a will commit all changes
+- git push origin master pushes changes to a remote repository, esp for cloned repositories
+- git stash when you're not ready to commit changes, but don't want to lose them, also temp removes changes, hides, for a clean working directory
+- git stash apply allows you to reapply stashed hidden changes
+
+### seeing your remote ###
+git remote view all specified remote handles
+git remote -v, view all remote URLS next to their corresponding short names
+Head: Points to the most recent commit
