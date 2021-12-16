@@ -103,3 +103,6 @@ My name is Lauren. I live in Seattle and I am currently an analyst with King Cou
 - git init
 - git add LICENSE
 - git commit -m 'any message here'
+
+### Cloning ###
+git clone 
