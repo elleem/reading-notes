@@ -92,3 +92,14 @@ My name is Lauren. I live in Seattle and I am currently an analyst with King Cou
 - allows snapshots, usu local, really effective at tracking changes, good at preventing loss of data
 - 3 states: committed, modified, staged
 - data stored locally, changed but not committed to db, flagged a file's changed version to be committed
+- git config, set up email and username
+- git config --global. user email will apply to all projects, you can specify user names, projects if needed
+- to see all your settings git config --list
+- could be using the default text editor, so you can config this as well git config --global core.editor emacs
+- help:  git help command  git command --help  man git-command
+
+### Switch to the project's directory ###
+- cd test
+- git init
+- git add LICENSE
+- git commit -m 'any message here'
