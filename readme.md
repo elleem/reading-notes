@@ -83,3 +83,12 @@ My name is Lauren. I live in Seattle and I am currently an analyst with King Cou
  - use quotes to search for an item with a space in the title
  - use \ to negate the space 
 
+### Version Control ###
+- use VCS to allow you to save drafts
+- allows you to save on your drive, or collaborative save CVCS, admin rights
+- DVCS distributed as fail safe, spec mirror repositories
+
+### Git ###
+- allows snapshots, usu local, really effective at tracking changes, good at preventing loss of data
+- 3 states: committed, modified, staged
+- data stored locally, changed but not committed to db, flagged a file's changed version to be committed
