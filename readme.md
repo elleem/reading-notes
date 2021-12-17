@@ -6,8 +6,10 @@ My name is Lauren. I live in Seattle and I am currently an analyst with King Cou
 
 ### Table of Contents 
 
-[Growth Mind Set](https://github.com/elleem/reading-notes/commit/4f1277ce68714c323d4f9a1a763099deda02f76f)
+[Growth Mind Set](https://github.com/elleem/reading-notes/blob/main/growthmindset.mdf)
 
-[The Command Line](https://github.com/elleem/reading-notes/commit/4f1277ce68714c323d4f9a1a763099deda02f76f)
+[The Command Line](https://github.com/elleem/reading-notes/blob/main/thecommandline.md)
 
-[Getting Git](https://github.com/elleem/reading-notes/commit/4f1277ce68714c323d4f9a1a763099deda02f76f)
+[Getting Git](https://github.com/elleem/reading-notes/blob/main/notes4ever.mdf)
+
+[Webpages](https://github.com/elleem/reading-notes/blob/main/webpages.md)
