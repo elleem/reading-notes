@@ -55,3 +55,29 @@ think about:
  1. clarity
  2. confidence
  3. simplicity
+
+
+ ## html
+
+### What Is
+
+ - enclose wrap text, tags so that it appears a certain way
+ - opening closing tags
+ - **attributes** always have a space b/n it and the element name, attribute name followed by =, attribute value wrapped by opening and closing quotation marks
+ - you can nest elements
+ - empty elements, like <img, also for visually impaired, the alt attribute 
+ 
+ ### html doc
+ - doctype
+ - html
+ - head
+ - meta charset= "utf-8"
+ - title, also used as the bookmark
+ - body, all the stuffs
+ - headings
+ - paragraphs
+ - lists, o and u
+ - links = a, anchors, href is the site address, don't forget the protocol (https)
+ 
+ 
+
