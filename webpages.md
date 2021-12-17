@@ -78,6 +78,20 @@ think about:
  - paragraphs
  - lists, o and u
  - links = a, anchors, href is the site address, don't forget the protocol (https)
+
+ ## Semantics
+
+ ### Semantics in Javascript
+
+ use the right tool for the job, also allows you to ensure that you are world wide web ready!
  
+ > In HTML, for example, the <h1 element is a semantic element, which gives the text it wraps around the role (or meaning) of "a top level heading on your page."
+
+ > On the other hand, you could make any element look like a top level heading.
+
+ presentation is CSS
+
+ elements include: article, aside, details, figcaptain, figure, footer, header, main, mark, nav, section, summary, time
  
+
 
