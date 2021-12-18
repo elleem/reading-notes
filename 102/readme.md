@@ -6,10 +6,12 @@ My name is Lauren. I live in Seattle and I am currently an analyst with King Cou
 
 ### Table of Contents 
 
-[Growth Mind Set](growthmindset.md)
+[Growth Mind Set](102/growthmindset)
 
-[The Command Line](thecommandline.md)
+[The Command Line](102/thecommandline)
 
-[Getting Git](notes4ever.md)
+[Getting Git](102/notes4ever)
 
-[Webpages](webpages.md)
+[Webpages](102/webpages)
+
+[CSS](102/CSS)
