@@ -6,14 +6,14 @@ My name is Lauren. I live in Seattle and I am currently an analyst with King Cou
 
 ### Table of Contents 
 
-[Growth Mind Set](102\growthmindset)
+[Growth Mind Set](102/growthmindset)
 
-[The Command Line](102\thecommandline)
+[The Command Line](102/thecommandline)
 
-[Getting Git](102\notes4ever)
+[Getting Git](102/notes4ever)
 
-[Webpages](102\webpages)
+[Webpages](102/webpages)
 
-[CSS](102\CSS)
+[CSS](102/CSS)
 
-[Java](102\java)
+[Java](102/java)
