@@ -16,4 +16,4 @@ My name is Lauren. I live in Seattle and I am currently an analyst with King Cou
 
 [CSS](102/CSS)
 
-[Java](102/java)
+[Java](102/javascript)
