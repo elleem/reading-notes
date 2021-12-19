@@ -3,10 +3,8 @@
 ### My top 3 takeaways
  - how computers work
  - javascript var
+ - javascript animates the page
 
-lightweight, just in time, compliled programming language w/1st class functions
-Just in time: runs during execution, not before
-> A programming language is said to have First-class functions when functions in that language are treated like any other variable. For example, in such a language, a function can be passed as an argument to other functions, can be returned by another function and can be assigned as a value to a variable.
 Allows anything beyond displaying info
     - content updates
     - animated graphics
@@ -48,7 +46,7 @@ strings
 
 values will be concatenated 
 
-### Computer are: 
+### Computers are: 
 
 input
 
