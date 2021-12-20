@@ -10,7 +10,10 @@
     - ex of a unary: operator operand or operand operator
 
    
-     name   shorthand operator  Meaning 
-    assignment  
+     | name |    shorthand operator | Meaning |
+
+     | :---- | :---- | :---- |
+
+     | assignment | 
 
 
