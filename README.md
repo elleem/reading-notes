@@ -18,4 +18,4 @@ My name is Lauren. I live in Seattle and I am currently an analyst with King Cou
 
 [Java](102/javascript)
 
-[Programming] (102/programming)
+[Programming](102/programming)
