@@ -9,7 +9,10 @@
     - ex of a binary: operand1 operator operand2
     - ex of a unary: operator operand or operand operator
  
-    > An assignment operator assigns a value to its left operand based on the value of its right operand. The simple assignment operator is equal (=), which assigns the value of its right operand to its left operand. That is, x = f() is an assignment expression that assigns the value of f() to x.
+    - An assignment operator equal (=), which assigns the value of its right operand to its left operand. 
+    - once the value is assigned you can do simple math like + - * ** (exponentiation) / % (division remainder) ++ (increment) -- (decrement)
+    - first enter the math symbol, then = to assign values to JS variables
+    - "=" will also concatenate strings with text or numbers
 
     > Assigning to properties
     If a variable refers to an object, then the left-hand side of an assignment expression may make assignments to properties of that variable.
@@ -23,10 +26,16 @@
     ### Comparison Operators
 
     > A comparison operator compares its operands and returns a logical value based on whether the comparison is true. The operands can be numerical, string, logical, or object values. Strings are compared based on standard lexicographical ordering, using Unicode values. In most cases, if the two operands are not of the same type, JavaScript attempts to convert them to an appropriate type for the comparison. This behavior generally results in comparing the operands numerically. The sole exceptions to type conversion within comparisons involve the === (equal) and !== (not equal) operators, which perform strict equality and inequality comparisons. (quiz day 6)
+    == equal to, === equal value and equal type, != not equal, !== not equal value, not equal type, > greater than, < less than, >=greater than or equal to, <= less than or equal to, ? ternary operator
+
+    ### Type Operators
+
+    - typeof, returns the type of variable
+    - instanceof, returns true if an object is an instacne of an object type
 
     ### Logical Operators
 
-    >Logical operators are typically used with Boolean (logical) values; when they are, they return a Boolean value. However, the && and || operators actually return the value of one of the specified operands, so if these operators are used with non-Boolean values, they may return a non-Boolean value.
+    >Logical operators are typically used with Boolean (logical) values; when they are, they return a Boolean value. However, the && and || operators actually return the value of one of the specified operands, so if these operators are used with non-Boolean values, they may return a non-Boolean value. && logical and, || logical or, ! logical not
 
     ### String Operators
 
