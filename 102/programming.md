@@ -89,8 +89,22 @@ getScore(); // Returns "Chamakh scored 5"
 
 - A function that refers to itself and calls itself is recursion via the function's name, agruments.callee, and an in scopre variable that refers to the function. 
 
-- Nested functions and closures: nest a function within another function. The inner function is private to its containing outer function. This also forms a closure. The outer funciton does not have access to the variables and functions defined instide the inner function. 
+- Nested functions and closures: nest a function within another function. The inner function is private to its containing outer function. This also forms a closure. The outer funciton does not have access to the variables and functions defined instide the inner function. Inner functions wil lhave persistent and encapsulated data for inner functions to work with. 
 
 - can be multiply-nested
 - name conflicts, more nested scopes take precedence, the innermost will take precedence. 
+
+- default parameters-- you can define how you want things to be interacted with and bypasss a manuel check in the fuction body
+
+- rest parameters--collect arguments from the second one to the end
+
+- javascript has several top-level, built in functions
+
+### Control Flow
+
+- order in which the computer executes statements in a script
+- 1st to last line, unless the computer runs across a conditional or a loop
+- ex: if a field is left blank on a user input form
+- parts of scripts set to execute when events occur
+- *when you read a script pay attention from start to finish and look at program structure to see how it influences order of execution* 
 
