@@ -34,10 +34,21 @@
 
     ### Functions
 
+    #### code that performs a task, define the code once and use it many times
+
     - functions make sense to me currently
-    - fucntion, you name the function, then you give it parameters, then you tell it what you want it to do with those elements, enclose with curly brackets. 
+    - to make a function, 
+    1. type "function"
+    2. name the function
+    3. followed by parentheses
+    4. then you give it parameters within the parentheses, 
+    5. then you tell it what you want it to do with those elements, enclose with curly brackets. 
+    6. function stops running when it reaches a return and will return a value
+    7. toCelsius refers to the function object
+    8. **toCelsius() refers to the function result**
+    9. you can put a variable directly into the forum as a variable value, use toCelsius, instead of "X"
     - alter this by taking out parameters and assigning values 
-    - naming functions help with debugger's stack traces
+    - naming functions helps with debugger's stack traces
     - operators can exist within functions?
     - calling the function performs the specified actions with the indicated parameters
 
