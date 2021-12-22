@@ -2,7 +2,7 @@
 
 ### Types of Operators
 
-- assignment assigns value to its left operand based on the value of the right operand, that's why arthmitic is written x+=f()
+- assignment assigns value to its left operand based on the value of the right operand, that's why arithmitic is written x+=f()
 
         -ex: x=f()
         
@@ -28,7 +28,7 @@
 ### Object
 
 - a collection of properties, or an associative array
-- a poperty is an an assocation between a name and a value
+- a property is an association between a name and a value
 - an object is a standalone entity with properties (variables), like a cup, which can have a design, weight, etc. 
 - object.Name.propertyName are case sensitive, always begin with lower case, period was the punctuation
 
@@ -69,7 +69,7 @@ Here is an object initializer, a comma-delimited list of zero or more pairs of p
 
 #### For
 
-for repeats until aspecified condition evaluates to false
+for repeats until a specified condition evaluates to false
 
         for ([initialExpression]; [conditionExpression]; [incrementExpression]) statment
 
@@ -93,7 +93,7 @@ executes statements as long as the condition is true
 
 #### labeled
 
-provides a statement with an indentifier that lets you refer to it elsewhere, value is any identifier that is not a reserved word
+provides a statement with an identifier that lets you refer to it elsewhere, value is any identifier that is not a reserved word
 
         label :
           statement
@@ -120,7 +120,7 @@ iterates a specified variable over all the enumerable properties of an object
 
 #### for...of 
 
-creates a loop iterating over iterable objects, like array, map, set, arugments object, invoking a customer iteration hook with statements to be executed for the value of each distinct property
+creates a loop iterating over iterable objects, like array, map, set, arguments object, invoking a customer iteration hook with statements to be executed for the value of each distinct property
 
         for (variable of object)
         statement
