@@ -4,6 +4,10 @@
 
 My name is Lauren. I live in Seattle and I am currently an analyst with King County government. This is my notes repo for Code Fellows. Thanks for taking the time to look at my page.  Here is my [github page](https://github.com/elleem).
 
+## Things I want to know more about
+
+Javascript, CSS Grid, animations 
+
 ### Table of Contents 
 
 ## Code 102 Reading Notes
