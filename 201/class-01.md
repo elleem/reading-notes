@@ -22,7 +22,12 @@
 <p> use class attributes to group elements together </p>
 <p> block elements are lists, headers, and paragraphs </p>
 <p> inline elements include basic text style and images </p>
-<p> you can use
+<p> you can use elements to group elements in a block, such as div </p>
+<p> you can use elements to group elements inline, such as span </p>
+<p>iframes are windows w/in your page, you can control the src, height and wdith </p>
+<p> meta is an empty tag that tells people name and content. </p>
+<p> wow, robots such as nofollow and noindex exist and pragma prevents caching, and expires expire the cache</p>
+<p>who hasn't seen an escape character in their day? &&& &euro</p>
 
 
 ## CSS
