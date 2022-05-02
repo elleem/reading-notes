@@ -29,8 +29,18 @@
 <p> wow, robots such as nofollow and noindex exist and pragma prevents caching, and expires expire the cache</p>
 <p>who hasn't seen an escape character in their day? &&& &euro</p>
 
+## HTML5
+<p> really could have used factoring to make the upgrade sound impressive. Why have an android10, when you can go right to 20? </p>
+<p> divs are still important for sectioning out your webpage, but now you can add in nav, article and footer tags. <br> You can user header and footer within articles and sections. </p>
+<p> wow, I love this joke about nav maybe not being used to link things at the bottom of a page. </p>
+<p> interested to hear more about articles, since they can be nested within each other and potentially be syndicated. </p>
+<p> asides can be used inside articles to pull out a text quote. asides outside of articles act as a container for content related to other sites, like recent tweets. </p>
+<p> figure is an available content tag </p>
+<p> a allows you to turn an entire block into a link </p>
+<p> site maps ftw--definitely feel these for wireframing. The fun creative part of coding is not just in writing. It starts in the conceptual phase of wire framing </p>
 
-## CSS
-### Presentation and Layout
+
+## Javascript
+<p> scripts, scripts, scripts! </p>
 
 
