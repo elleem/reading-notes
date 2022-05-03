@@ -12,17 +12,17 @@ Javascript, CSS Grid, animations
 
 ## Code 102 Reading Notes
 
-[Growth Mind Set](102/growthmindset)
+[Growth Mind Set](102/growthmindset.md)
 
-[The Command Line](102/thecommandline)
+[The Command Line](102/thecommandline.md)
 
-[Getting Git](102/notes4ever)
+[Getting Git](102/notes4ever.md)
 
-[Webpages](102/webpages)
+[Webpages](102/webpages.md)
 
-[CSS](102/CSS)
+[CSS](102/CSS.md)
 
-[Java](102/javascript)
+[Java](102/javascript.md)
 
 [Programming](102/programming)
 
@@ -30,7 +30,7 @@ Javascript, CSS Grid, animations
 
 ## Code 201 Reading Notes
 
-[HTLMCSSJavascript](201/htmlcssjavascript)
+[HTLMJavascript](201/class-01.md)
 
 [Reading2](201/reading2)
 
