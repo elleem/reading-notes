@@ -41,6 +41,16 @@
 
 
 ## Javascript
-<p> scripts, scripts, scripts! </p>
+<p> scripts, scripts, scripts! use vocab and syntax. </p>
+<p> scripts are like recipes that can be complex and simple, or handbooks that the computer follows in certain scenarios. </p>
+
+<li> 1. define your goal.
+<li> 2. design the script. 
+<li> 3. code each step. And make sure it's really every single step. try a flow chart.
+
+<p> Objects fall into types of objects and instances of objects (numbers). Events happen to objects. Methods are how we interact with an object. 
+
+<p> JavaScript uses an interpreter or scripting engine on the internet to allow it to work. <br> Layer the website together using style sheets after you create your html sheet.  </p>
+
 
 
