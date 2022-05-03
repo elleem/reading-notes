@@ -8,7 +8,8 @@ My name is Lauren. I live in Seattle and I am currently an analyst with King Cou
 
 Javascript, CSS Grid, animations 
 
-### Table of Contents 
+## Table of Contents 
+---
 
 ## Code 102 Reading Notes
 
