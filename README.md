@@ -11,7 +11,7 @@ Javascript, CSS Grid, animations
 ## Table of Contents 
 ---
 
-## Code 102 Reading Notes
+## Code 102 Reading Notes :seedling:
 
 [Growth Mind Set](102/growthmindset.md)
 
@@ -29,7 +29,9 @@ Javascript, CSS Grid, animations
 
 [Loops](102/loops)
 
-## Code 201 Reading Notes
+## Code 201 Reading Notes :plant:
+
+---
 
 [HTLMJavascript](201/class-01.md)
 
