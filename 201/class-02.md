@@ -1,11 +1,9 @@
 ## Basics HTML, CSS, & JS
 ---
 ### Text
- <p> h1 to h6, p, b <strong>, <em> is italic, </p>
- <p> superscript "th" in dates
-         <sup> <sub> for H20, white space collapsing allows for readability in code, but does not impact how things are rendered on the page. My fav <br/>  Horizontal rule is <hr/> </p>
- <p> Don't forget     
-         <blockquote> and <q> and <ins> and <del> </p>
+ <p> h1 to h6, p, b 'strong', 'em' is italic, </p>
+ <p> superscript "th" in dates 'sup' 'sub' for H20, white space collapsing allows for readability in code, but does not impact how things are rendered on the page. My fav 'br/'  Horizontal rule is 'hr/' </p>
+ <p> Don't forget 'blockquote' and 'q' and 'ins' and 'del' </p>
 
 
 ---
