@@ -29,7 +29,7 @@ Javascript, CSS Grid, animations
 
 [Loops](102/loops)
 
-## Code 201 Reading Notes :plant:
+## Code 201 Reading Notes :herb:
 
 ---
 
