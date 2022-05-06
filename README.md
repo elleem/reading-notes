@@ -25,17 +25,17 @@ Javascript, CSS Grid, animations
 
 [Java](102/javascript.md)
 
-[Programming](102/programming)
+[Programming](102/programming.md)
 
-[Loops](102/loops)
+[Loops](102/loops.md)
 
-## Code 201 Reading Notes <p> &#127793; </p>> 
+## Code 201 Reading Notes <p> &#127793; </p>
 
 ---
 
 [HTLMJavascript](201/class-01.md)
 
-[Reading2](201/reading2)
+[Reading2](201/class02.md)
 
 [Reading3](201/reading3)
 
