@@ -35,9 +35,9 @@ Javascript, CSS Grid, animations
 
 [HTLMJavascript](201/class-01.md)
 
-[Reading2](201/class02.md)
+[Reading2](201/class-02.md)
 
-[Reading3](201/reading3)
+[Reading3](201/class-03.md)
 
 [Reading4](201/reading4)
 
