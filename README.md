@@ -39,7 +39,7 @@ Javascript, CSS Grid, animations
 
 [Reading3](201/class-03.md)
 
-[Reading4](201/reading4)
+[Reading4](201/class-04.md)
 
 [Reading5](201/reading5)
 
