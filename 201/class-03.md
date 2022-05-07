@@ -4,6 +4,7 @@
 ## Lists
 <p> Numbered (steps) ol, bullet or unordered ul, definition (set of terms along with def for each term) dl, dt for the defined term, dd for the definition.  </p>
 <p> Put each element in li with open close brackets </p>
+<p> Read up on nesting </p>
 
 
 ## Boxes
@@ -38,7 +39,7 @@
 <p> Short curcuit values, logical values are processed left to right, but stop when they find a result. This can help because you can code to put the code mostly likely to return true first, or put options requiring the most processing power last. </p>
 <p> Loops check a condition and run until a false condition occurs. Using break (terms loop and runs next code) and continue (continue count, then check again, and run again). Loops are very helpful for arrays.</p>
 <li>for, runs until match, usually you need to enter a counter. Counters can count up or down. </li>
-<li>while, runs until match, but if you don't know how many times, no counter is needed. </li>
-<li>do while, runs even if the condition is false. </li>
+<li>while, runs until match, but if you don't know how many times, no counter is needed. Can run out of control. </li>
+<li>do while, runs even if the condition is false. Runs at least once. David has never used this professionally. </li>
 
-<p> Browsers will run JS first. If there are a lot of items, then your page will run slowly. If your condition is never false, the function runs until the browser runs out of space.
+<p> Browsers will run JS first. If there are a lot of items, then your page will run slowly. If your condition is never false, the function runs until the browser runs out of space. </p>
