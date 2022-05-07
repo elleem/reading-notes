@@ -2,11 +2,26 @@
  <p> comments in CSS /**/ </p>
 
 ## Lists
-<p> 
+<p> Numbered (steps) ol, bullet or unordered ul, definition (set of terms along with def for each term) dl, dt for the defined term, dd for the definition.  </p>
+<p> Put each element in li with open close brackets </p>
 
 
 ## Boxes
+<p> Boxes are 2D, width and height, using pixels, percentages, or ems. Percentages, the size is relative to the size of the browser window, ems the size is based on the text within the box. </p>
+<p> min-width or smallest size, max-width or largest size, min-height, max-height, overflow can be hidden or scroll (cool!!) </p>
+<p> Borders (seperates 1 box from another), Margin (sit outside the edge of the border), Padding (padding is the space between the border of a box and any content contained within it) </p>
+<ul>
+<li> border-width (thin, medium, thick) (top, r, l, bottom) usually shorthand </li>
+<li> border-style (solid, etc excel) also t,r,l,b </li>
+<li> border-color, t, r, l, b as in clockwise </li>
+</ul>
 
+<p> Padding also has the clockwise values. </p>
+<p> Specify margin for each element that needs it. Also clockwise. </p>
+<p> Centering, use auto margin </p>
+<p> Display can include inline (like navigation), block, inline-block, or none. </p>
+<p> CSS image block is really interesting. </p>
+<p> Box shadows allows you to add shadowing. Radius allows you to round the corners. Elliptical shapes, on my list to experiment with. </p>
 
 ## Basic JavaScript Instructions
 
