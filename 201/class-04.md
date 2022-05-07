@@ -19,7 +19,15 @@
 </ul>
 
 <p> z-index--when boxes overlap, uses numbers to determine order, bring to front, send to back features </p>
-<p> Clear float uses the values of left, right, box and allows no element to touch the left and right sides of the box. 
+<p> Clear float uses the values of left, right, both, and none. And allows no element to touch the left and right sides of the box. None does allow them to touch, both is both sides, and you can specify which side. </p>
+<p> If a containing element only contains floated elements, could become zero px tall, so remember to add a border, or overflow auto and width:100%. </p>
+<p> To create columns: give each text element a class, then select all the classes togehter and assign a width, float, and margin (not touching). </p>
+
+<p> Pages sizes: usually a 960 width px. Try to fit everything pertinent in 570 px, before the users has to start scrolling. </p> <p> There are fixed width layout and liquid layouts. Fixed width to assign width of 960, then use auto margins. When writing a liquid layout be sure to test a larger and smaller window, min-width, max-width can help. </p>
+
+<p> Layout grids: uses grid, usually 960, and then breaks out from there. </p>
+<p> CSS frameworks: 960.gs is a style sheet, with a 12 column grid. There are more. </p>
+<p> An idea is to use separate style sheets for colors and one for layout. If you have rules that apply to both elements, then second rules will take precedence. </p>
 
 ### Functions, Methods and Objects
 
