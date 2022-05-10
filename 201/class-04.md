@@ -30,6 +30,12 @@
 <p> An idea is to use separate style sheets for colors and one for layout. If you have rules that apply to both elements, then second rules will take precedence. </p>
 
 ### Functions, Methods and Objects
+ <p> Functions are a series of statements that have been grouped together because they perform a task, allow you to repeat things without re-writing. Methods are the same as functions and are inside of an object. </p>
+ <p> Function= give it a name, then write the statements needed to achieve the task inside curly braces. Then call the function. Give it parameters inside the function. Variables are declared with = outside of the function. </p>
+ <p> You can get multiple and single values out of a function. </p>
+ <p>Immediately invoked function expressions (IIFE) which is what I thought all functions were until right now. Usually for event handlers, and listeners.  </p>
+ <p> Local variables occur with the function, but global are outside of the function, can be used anywhere and use more memory. Even declariing a lot of variables can make scripts run more slowly. </p>
+ 
 
 ### Pair Programming
 <p> To help you hear, speak, write, and read a new language. </p>
