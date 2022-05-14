@@ -40,8 +40,26 @@ const mo ={<br>
 ### Document Object Model or API
 <p> How browsers should create a model of the page and how js should access and update it.</p>
 <p> 4 types of nodes: 1)document (parent), 2)elements (child) 3)attributes (asides in the DOM tree) 4)text (no additional children). </p>
-<p> Working with the tree: 1) access the elements by selecting an individual node, getElementById(), or querySelector(), or multiple nodes, getElementsByClassName(), getElementsByTagName(), querySelectorAll(). You can move from one element to the next by parentNode, previousSibling, nextSibling, firstChild, lastChild. </p>
+<p> Working with the tree: 1) access the elements by selecting an individual node, getElementById(), or querySelector(), first element node that matches the CSS selector, or multiple nodes, getElementsByClassName(), assigned in the HTML, getElementsByTagName(), such as </li>, querySelectorAll(), all items that match the CSS selector. You can move from one element to the next by parentNode, previousSibling, nextSibling, firstChild, lastChild. </p>
  <p>2) then you can access/update the tree: by updating the text using nodeValue, working with the html by using innerHTML, textContent, createElement, createTextNode, appendChild, removeChild. className and id allow you to work with attributes. hasAttribute(), getAttribute(), setAttribute(), removeAttribute() allows you to check, get the value, update, or remove. </p>
  <p>3)You can save references to the tree in variables. </p>
  <p>4) You can select one or a group of elements, in a group use an index number, like with an array. getElementById() is fast, but limited to elements with ids. querySelector uses CSS to return the first element. getElementsByClassName selects one or more elements given the values of their class and is faster than querySelectorAll() which selects one or more elements and returns all of those that match.  getElementsByTagName selects elements with the tag name. You always have to access individual elements via the document object. </p>
- <p> You can select items using array notation or item(). Use length to be sure there are items in the node. 
+ <p> You can select items using array notation or item(). Use length to be sure there are items in the node. if (elements.legth>=1) </p>
+ <p> Looping allows you to continue through a list of elements, using a for loop. </p>
+ 
+ ### Traversing the DOM
+ <p> all of the following do not use parentheses and may be obselete due to jQuery. </p>
+ <p> parentNode, find the element node for the containing html. </p>
+ <p> previousSibling, nextSibling, find the previous or next sibling </p>
+ <p> firstChild, lastChild, first of last child of the current element. </p>
+
+ ### How to get/update elements
+ <p>To navigate you have the choice between navigating to the text nodes or working with the containing element. Text only works with text. </p>
+ <p> innerHTML gets/sets text and markup while textContent, innerText get set text only </p>
+ <p> document.getElementById('one').firstChild.nextSibling.nodeValue will find the second text node in the example. </p>
+ <p> document.getElementById('one'); itemTwo.firstChild.nodeValue; elText.replace.('pine nuts', 'kale'); </p>
+ <p> collect the variable, store the variable, replace the variable, keeping the string method. </p>
+ <p> DOM manipulation can be safer than innerHTML, but also can be slower. You can use approach, add (createElement, createTextNode, appendChild) and remove (store the element to be removed in a var, store the parent in a var, remove the element from the element). </p>
+ <p> Make sure to 1)use validation when users are entering info, double check validation on the server 3)db only can contain markup/ script from trusted sources 4) do not create DOM containing HTML from untrusted sources 5) make sure you are only inserting user generated content into certain parts of the file 6) as data leaves, all dangerous characters should be escaped. &amp </p>
+
+
