@@ -33,4 +33,9 @@ const mo ={<br>
 
 ### Object Literals
 <p> Objects group together variables and functions to create a model.</p>
-<p> Variables are properties. Functions are methods. 
+<p> Variables are properties. Functions are methods. Key is a name and value. </p>
+<p> Literal notation, the object is the curly braces and their contents, separate each key using a colon, separate each property and method with a comma. </p>
+<p>Access an object by using dot notation. Use the name of the object, then period, then the name of the property or method you want to access. If the method needs parameters you can supply them in the parathenses. </p>
+
+### Document Object Model
+<p>
