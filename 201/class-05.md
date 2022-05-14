@@ -1,6 +1,6 @@
 ## Images, Color, Text
 
-## Things I Want to Know More About
+### Things I Want to Know More About
 <p>How to ensure my pages are readable, how to create a fall back color? </p>
 
 ### Images
