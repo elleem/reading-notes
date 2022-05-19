@@ -1,6 +1,7 @@
 ## Object-Oriented Programming, HTML Tables
 
 ### Things I Want to Know More About
+<p> Built in objects. 
 
 ### Domain Modeling
 <p> The process of creating a conceptual model in code for a problem. </p>
@@ -33,7 +34,13 @@
 <p> Constructor notation is this.name = name this.rooms=rooms This is used instead of the object name to indicate that the property or mthod belongs to the object that this function creates.</p>
 <p> Ends in a colon (not a comma). Begins with a capital letter. </p>
 <p> You create instances of the object using the constructor function. </p>
-<p> The new keyword followed by a call function.
-<p>
-<p>
-  
+<p> The new keyword followed by a call function.</p>
+<p> Objects created with constructors are good when you have a lot of similar objects. </p>
+<p> There are built in objects that help you retrieve user entries </p>
+<p>Built in objects include DOM, Browser Object Model, Global Javascript Objects. </p>
+<p>Browser Object is the current window, including window.innerHeight, window.innnerWidth, window.pageXOffset, window.pageYOffset, window.screenX, window.screenY, window.location, window.document, window.history, window.history.length, window.screen, window.screen.width, window.screen.height. </p>
+<p>window.alert(), window.open(), window.print(), dialog box, new browser, and print the contents. </p>
+<p> Dang. I should try that code for the pop up in this book and home sweet home. </p>
+<p>DOM: document.title, document.lastModified, document.URL, document.domain, document.write(), document.getElementById(), document.querySelectorAll(), document.createElement(), document.createTextNode(). 
+<p> There are lots of cool math objects, not just ceil and floor. </p>
+<p> Date object. Times and dates can have many matches. YY, MM, DD, HH, MM, SS</p>
