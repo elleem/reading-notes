@@ -20,7 +20,7 @@
 <li>Symbol</li>
 <li>Object</li> </ul>
 <p> A value is assigned with let foo="bar" and is immutable</p>
-<p> When the variable is assigned with an object the variable contains a reference and it is mutable.<br>
+<p> When the variable is assigned with an object the variable contains a reference and it is mutable. Ex: Object: <br>
 const mo ={<br>
   name="Moe Szyslak",<br>
   occu="bartender",<br>
@@ -30,6 +30,7 @@ const mo ={<br>
 })</p>
 <p> Object references do not contain values directly, so they can't be compaired. </p>
 <p> To check that the contents of the two objects are true you need to iterate thru the object and check that each key and value match (hard if an objects property can be an object istelf.) Convert the object to a suitable primitive before doing the equality check. JSON.stringify </p>
+<p> Limited set of things that talk about a related thing. Properties have a name, type, value</p>
 
 ### Object Literals
 <p> Objects group together variables and functions to create a model.</p>
@@ -46,9 +47,10 @@ const mo ={<br>
  <p>4) You can select one or a group of elements, in a group use an index number, like with an array. getElementById() is fast, but limited to elements with ids. querySelector uses CSS to return the first element. getElementsByClassName selects one or more elements given the values of their class and is faster than querySelectorAll() which selects one or more elements and returns all of those that match.  getElementsByTagName selects elements with the tag name. You always have to access individual elements via the document object. </p>
  <p> You can select items using array notation or item(). Use length to be sure there are items in the node. if (elements.legth>=1) </p>
  <p> Looping allows you to continue through a list of elements, using a for loop. </p>
+ <p> <//dl> <//dd> property name, <//dt> property value </p>
  
  ### Traversing the DOM
- <p> all of the following do not use parentheses and may be obselete due to jQuery. </p>
+ <p> All of the following do not use parentheses and may be obselete due to jQuery. </p>
  <p> parentNode, find the element node for the containing html. </p>
  <p> previousSibling, nextSibling, find the previous or next sibling </p>
  <p> firstChild, lastChild, first of last child of the current element. </p>
