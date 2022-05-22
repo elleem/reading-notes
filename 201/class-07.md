@@ -22,7 +22,7 @@
 
 ### Tables
 <p> A table is a grid. using <//table> to initate and <//tr> to create a row. <//th> creates the heading. <//td> represents the data. </p>
-<p> You have to create empty cells (upper right corner is blank on tables usually).</p>
+<p> You have to create empty cells (upper right corner is blank on tables usually).just a blank brackets in the list of the tags creating the rows and columns</p>
 <p> Scope will allow you to denote columns(col) and rows(row) and colspan will allow you to span across the columns. </p>
 <p> <//thead>, <//tbody>, <//tfoot>, allows you to pin these items when users scroll. </p>
 
@@ -30,13 +30,13 @@
 ### Functions, Methods, Objects
 <p> All the functions at the end of the questions section allow you to call the questions at that point by grouping things together within the code. </p>
 <p> Local variables are only remembered while the function is being invoked. Global have to be remembered the whole time.</p>   
-<p> Access the properties or methods of an object using dot notation. </p>
-<p> Constructor notation is this.name = name this.rooms=rooms This is used instead of the object name to indicate that the property or mthod belongs to the object that this function creates.</p>
-<p> Ends in a colon (not a comma). Begins with a capital letter. </p>
-<p> You create instances of the object using the constructor function. </p>
+<p> Access the properties or methods of an object using dot notation. A method is a special type of function.  </p>
+<p> Constructor notation is this.name = name this.rooms=rooms This is used instead of the object name to indicate that the property or method belongs to the object that this function creates contextual because it refers to the object it is a part of. </p>
+<p> Ends in a colon (not a comma). Begins with a capital letter, it's a maker of potatoes, not a potato itself. </p>
+<p> You make instances of the object using the constructor function. <strong> Use this to update and create new properties, the dot notation is just a longer variable </strong></p>
 <p> The new keyword followed by a call function.</p>
 <p> Objects created with constructors are good when you have a lot of similar objects. </p>
-<p> There are built in objects that help you retrieve user entries </p>
+<p> There are built in objects that help you retrieve user entries. </p>
 <p>Built in objects include DOM, Browser Object Model, Global Javascript Objects. </p>
 <p>Browser Object is the current window, including window.innerHeight, window.innnerWidth, window.pageXOffset, window.pageYOffset, window.screenX, window.screenY, window.location, window.document, window.history, window.history.length, window.screen, window.screen.width, window.screen.height. </p>
 <p>window.alert(), window.open(), window.print(), dialog box, new browser, and print the contents. </p>
