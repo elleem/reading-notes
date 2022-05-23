@@ -1,7 +1,7 @@
 ## Forms and JS Events
 
 ### Things I Want to Know More About
-multiple select--does this work in modern browsers? 
+multiple select--does this work in modern browsers? https://formalize.me/ is this used? aligning form controls
 
 ### Forms
 <p> Collecting information via users, all methods, are forms. </p>
@@ -29,16 +29,16 @@ multiple select--does this work in modern browsers?
 
 ###  Lists, Tables, and Forms
 <p> List-style-type--disc, none, circle, square, decimal, decimal-leading-zero, lower-alpha, upper-alpha, lower-roman, upper-roman. </p>
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
+<p> list-style-image wow! </p>
+<p> yes, list-style-position is something I wanted on my about me. I had looked it up, but should have used it. inside, or outside. </p>
+<p> list style allows short hand. I should really try hover in salmon cookies. </p>
+<p> Give cells padding, distinguish headings, shade alternate rows using CSS. </p>
+<p> You can hide empty cells via CSS empty-cells property. show, hide, inherit. </p>
+<p> border-spacing, border-collapse </p>
+<p>https://formalize.me/ for forms in CSS</p>
+<p> You can use the input tag to set up how the text is styled in forms. </p>
+<p> Wow, that is a ton of CSS for the register button in this example. </p>
+<p> fieldsets (determine the edges of a form) and legends (what info is required in the fieldset). 
+<p> I bet I'm going to back in this chapter looking at how to align things. </p>
 
 ### Events
