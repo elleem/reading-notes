@@ -42,3 +42,20 @@ multiple select--does this work in modern browsers? https://formalize.me/ is thi
 <p> I bet I'm going to back in this chapter looking at how to align things. </p>
 
 ### Events
+
+<p> Interactions create events, events trigger code, code responds to users. </p>
+<p> load, unload, error, resize, scroll, keydown, keyup, keypress, click, dblclick, mousedown, mouseup, mousemove, mouseover, mouseout. </p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>

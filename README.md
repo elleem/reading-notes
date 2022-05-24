@@ -46,9 +46,9 @@ My name is Lauren. I live in Seattle and I am currently an analyst with King Cou
 
 [Reading8](201/class-08.md)
 
-[Reading9](201/reading9)
+[Reading9](201/class-09.md)
 
-[Reading10](201/reading10)
+[Reading10](201/class-10.md)
 
 [Reading11](201/reading11)
 
