@@ -1,7 +1,7 @@
 ## Forms and JS Events
 
 ### Things I Want to Know More About
-multiple select--does this work in modern browsers? https://formalize.me/ is this used? aligning form controls, what is bubbling up? 
+multiple select--does this work in modern browsers? https://formalize.me/ is this used? aligning form controls, what is bubbling up? Are these all DOM events or Browser object models too? 
 
 ### Forms
 <p> Collecting information via users, all methods, are forms. </p>
@@ -59,11 +59,10 @@ multiple select--does this work in modern browsers? https://formalize.me/ is thi
 <p> In a list if you place an event listener on the parent ul, rather than on li in the list, you will only have to add one listener. </p>
 <p> Also works with new elements, solves limitations with this, simplifies your code. </p>
 <p> You may have to code preventDefault(), so that you can avoid issues when the event object changes. </p>
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
+<p> When calling a funciton the event object's target property is the best way to determine which element the event occurred on. </p>
+<p> UI events: load (typically raised by the window object, everything has to load, including 3rd party content), unload, error, resize, scroll. </p>
+<p> Do we use blur and focus today?</p>
+<p> Mouse events, click, dblclick, (interesting I have programs that use double right click). Also enforces the use of a mouse. </p>
+<p> Keyboard events, keyup, keydown, input, etc. </p>
+<p> Form events include submit, input, and change. OMG--a checkTerm() event?!</p>
+<p> Bet we can use the new mutation observers now??</p>
