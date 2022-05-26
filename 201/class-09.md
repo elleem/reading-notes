@@ -1,7 +1,7 @@
 ## Forms and JS Events
 
 ### Things I Want to Know More About
-multiple select--does this work in modern browsers? https://formalize.me/ is this used? aligning form controls
+multiple select--does this work in modern browsers? https://formalize.me/ is this used? aligning form controls, what is bubbling up? 
 
 ### Forms
 <p> Collecting information via users, all methods, are forms. </p>
@@ -45,12 +45,20 @@ multiple select--does this work in modern browsers? https://formalize.me/ is thi
 
 <p> Interactions create events, events trigger code, code responds to users. </p>
 <p> load, unload, error, resize, scroll, keydown, keyup, keypress, click, dblclick, mousedown, mouseup, mousemove, mouseover, mouseout. </p>
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
+<p> Events: input, change, submit, reset, cut, copy, paste, select. </p>
+<p> Mutation events: DOMSubtreeModified, DOMNodeInserted, DOMNodeRemoved, DOMNodeInsertedIntoDocument, DOMNodeRemovedFromDocument. occur when the DOM structure changes due to a script</p>
+<p> To execute: select the element nodes you want the script to respond to, indicate which event will trigger the response (binding), state the code you want to run when the event occurs </p>
+<p>Event listeners handle events. One event can trigger multiple functions. </p>
+<p> dom element.onevent=functionName; </p>
+<p> dom event handler is last, first the function, then the DOM element is stored in a avariable. </p>
+<p> el.addEventListener ('blur', checkUsername, false); </p>
+<p> Passing arguements requires a workaround--functions remain anonymous. Inside that wrapper then the function can be called. </p>
+<p> The event starts at the most specific node and flows out to the least specific in event flow in the html. </p>
+<p> The flow of events only matters when your code has event handlers on an element, and one of its ancestor or descendant elements. You may have to code stopPropagation or return false to stop bubbling up. </p>
+<p> the event object will tell you infromation about the event and the element it happened upon. </p>
+<p> In a list if you place an event listener on the parent ul, rather than on li in the list, you will only have to add one listener. </p>
+<p> Also works with new elements, solves limitations with this, simplifies your code. </p>
+<p> You may have to code preventDefault(), so that you can avoid issues when the event object changes. </p>
 <p>
 <p>
 <p>

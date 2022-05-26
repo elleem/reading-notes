@@ -33,7 +33,7 @@
 <p> Access the properties or methods of an object using dot notation. A method is a special type of function.  </p>
 <p> Constructor notation is this.name = name this.rooms=rooms This is used instead of the variable name to indicate that the property or method belongs to the object that this function creates contextual because it refers to the object it is a part of. </p>
 <p> Ends in a colon (not a comma) for a key value pairs. Begins with a capital letter for you as a person to understand the code, but JS doesn't care.  It's a maker of potatoes, not a potato itself. </p>
-<p> You make instances of the object using the constructor function. <strong> Use this to update and create new properties, the dot notation is just a longer variable </strong></p>
+<p> You make instances of the object using the constructor function. <strong> Use this to update and create new properties, the dot notation is just a longer variable. Method is a part of an object. </strong></p>
 <p> The new keyword, makes the constructor works, then followed by a call function.</p>
 <p> Objects created with constructors are good when you have a lot of similar objects. </p>
 <p> There are built in objects that help you retrieve user entries. </p>

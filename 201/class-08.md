@@ -29,7 +29,9 @@ CSS grid, Flexbox, screen resolution/screen size, CSS frameworks (should we use 
 <p> Float--if the containing element only contains floated elements, some browswers will treat it as if it has zero pixels. Now fixed with overflow at auto and width to 100%. </p>
 <p> Fixed or liquid layouts. Fixed no matter the window. Liquid expand, but it can look very odd. Less control. </p>
 <p> 960 pixel grid (960px so 940px header and then everything else breaks down from there.)</p>
-<p>CSS Frameworks--having an online version of this book allows me to look at all these links right away! Yahoo link is not found. </p>
+<p> CSS Frameworks--having an online version of this book allows me to look at all these links right away! Yahoo link is not found. </p>
 <p> @import</p>
 <p> Later rules are more important. Later rules are more important. Later rules are more important. Maybe I will remember this...</p>
+<p> height: 100vh; viewport height, about the size of the viewer's screen</p>
+<p> flexbox cheat sheet, https://css-tricks.com/snippets/css/a-guide-to-flexbox/ </p>
 
