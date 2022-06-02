@@ -1,7 +1,7 @@
 ## Forms and JS Events
 
 ### Things I Want to Know More About
-multiple select--does this work in modern browsers? https://formalize.me/ is this used? aligning form controls, what is bubbling up? Are these all DOM events or Browser object models too? 
+multiple select--does this work in modern browsers? https://formalize.me/ is this used? aligning form controls, what is bubbling up? Are these all DOM events or Browser object models too? What is a fieldset?
 
 ### Forms
 <p> Collecting information via users, all methods, are forms. </p>
@@ -10,10 +10,10 @@ multiple select--does this work in modern browsers? https://formalize.me/ is thi
 <p> If the form control allows you to choose from answers, you will have to code in an option for the value. </p>
 <p> Form value in html, along with action, use get or post to send the form. </p>
 <p> Use <strong> get </strong>with short forms, or when you are retrieving data from the server, not using db </p>
-<p> Use <strong> post </strong> when uploading a file, a long form, sensitive datea, db </p>
+<p> Use <strong> post </strong> when uploading a file, a long form, sensitive data, db </p>
 <p> input element creates several different form controls. type="text" creates a single line of input </p>
 <p> Each form requires a name to id the form. Name sent along with the information. </p>
-<p> type="password", CSS will control the size and width of teh textarea. </p>
+<p> type="password", CSS will control the size and width of the text area. </p>
 <p> type="radio", each has a matching name for the options. Remains selected. </p>
 <p> type="checkbox", name, value, checked attributes. </p>
 <p> select tag for drop down lists. Allows users to select one option. option value vai te code. Selected attribute will load when the page loads. </p>
@@ -24,7 +24,7 @@ multiple select--does this work in modern browsers? https://formalize.me/ is thi
 <p> Each form control should have its own label for users. for attribute states which form control the label belows to. <//label for ="male"> Male <///label> </p>
 <p> Use fieldset to group elements, especially in longer forms. </p>
 <p> "required" for form validation. </p>
-<p> type="email", type="url", type="search", placeholder attribute, text will show in the text box once the user clicks on the area. </p>
+<p> type="email", type="url", type="search", placeholder attribute holds space without any user input provides context and text will show in the text box once the user clicks on the area. </p>
 
 
 ###  Lists, Tables, and Forms
@@ -55,14 +55,15 @@ multiple select--does this work in modern browsers? https://formalize.me/ is thi
 <p> Passing arguements requires a workaround--functions remain anonymous. Inside that wrapper then the function can be called. </p>
 <p> The event starts at the most specific node and flows out to the least specific in event flow in the html. </p>
 <p> The flow of events only matters when your code has event handlers on an element, and one of its ancestor or descendant elements. You may have to code stopPropagation or return false to stop bubbling up. </p>
-<p> the event object will tell you infromation about the event and the element it happened upon. </p>
+<p> The event object will tell you infromation about the event and the element it happened upon. </p>
 <p> In a list if you place an event listener on the parent ul, rather than on li in the list, you will only have to add one listener. </p>
 <p> Also works with new elements, solves limitations with this, simplifies your code. </p>
 <p> You may have to code preventDefault(), so that you can avoid issues when the event object changes. </p>
-<p> When calling a funciton the event object's target property is the best way to determine which element the event occurred on. </p>
+<p> When calling a function the event object's target property is the best way to determine which element the event occurred on. </p>
 <p> UI events: load (typically raised by the window object, everything has to load, including 3rd party content), unload, error, resize, scroll. </p>
 <p> Do we use blur and focus today?</p>
 <p> Mouse events, click, dblclick, (interesting I have programs that use double right click). Also enforces the use of a mouse. </p>
 <p> Keyboard events, keyup, keydown, input, etc. </p>
 <p> Form events include submit, input, and change. OMG--a checkTerm() event?!</p>
 <p> Bet we can use the new mutation observers now??</p>
+<p> 
