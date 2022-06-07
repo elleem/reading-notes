@@ -50,7 +50,7 @@ multiple select--does this work in modern browsers? https://formalize.me/ is thi
 <p> To execute: select the element nodes you want the script to respond to, indicate which event will trigger the response (binding), state the code you want to run when the event occurs </p>
 <p>Event listeners handle events. One event can trigger multiple functions. </p>
 <p> dom element.onevent=functionName; </p>
-<p> dom event handler is last, first the function, then the DOM element is stored in a avariable. </p>
+<p> dom event handler is last, first the function, then the DOM element is stored in a a variable. </p>
 <p> el.addEventListener ('blur', checkUsername, false); </p>
 <p> Passing arguements requires a workaround--functions remain anonymous. Inside that wrapper then the function can be called. </p>
 <p> The event starts at the most specific node and flows out to the least specific in event flow in the html. </p>

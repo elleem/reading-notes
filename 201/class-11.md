@@ -1,7 +1,7 @@
 ## Audio, Video, Images
 
 ### Things I Want to Learn More About
-<p> Is screen a part of photoshop? 
+<p> Is screen a part of photoshop? </p>
 
 ### Images
 <p> You control image properties using height and width </p>
@@ -23,8 +23,7 @@
 <p> Use analytics to learn about your visitors. I think the only one that was new to me in this list is bounce rate. </p>
 <p> The only thing new to me in the domain names and hosting section is bandwith, backups, and disk space. </p>
 <p> FTP allow you to transfer files from your local computer to your web server. </p>
-<p>
-<p>
+
 
 ### MDN Audio/ Video
 <p>https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Video_and_audio_APIs </p>
@@ -41,9 +40,14 @@
 <p>The time display currently breaks if the video is an hour long or more (well, it won't display hours; just minutes and seconds). Can you figure out how to change the example to make it display hours? </p>
 <p>Because <//audio> elements have the same HTMLMediaElement functionality available to them, you could easily get this player to work for an <//audio> element too. </p>
 <p>Can you work out a way to turn the timer inner <//div> element into a true seek bar/scroller — i.e., when you click somewhere on the bar, it jumps to that relative position in the video playback? As a hint, you can find out the X and Y values of the element's left/right and top/bottom sides via the getBoundingClientRect() method, and you can find the coordinates of a mouse click via the event object of the click event, called on the Document object. </p>
+<p> src must point to the file </p>
+<p> audio/visual tags, a lot of storage, which gets expensive. There are a lot of specialized services.  </p>
+<p> Security can be an issue, youtube allows you to copy to the code. </p>
+<p> unsplash, look up free stock videos, look up copyright free </p>
 
 ### Flash
 <p> Popular for animations, videos, audio. </p>
 <p> Used to have a lot of flash, but now JavaScript is used. </p>
 <p> Apple killed the radio star..</p>
+<p> Embed youtube now </p>
 
