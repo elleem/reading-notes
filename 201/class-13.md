@@ -20,3 +20,24 @@
 <p> Index database API uses an object store, which shares many concepts with a SQL db, but without a sturctured query language. </p>
 
 
+### JSON
+
+<p> JavaScript Object Notation is a scheame-less text based representation of structured data this is based on key-value pairs and ordered lists. </p>
+<p> used for information exchange between web clients and web servers. </p>
+<p> a data structure, in local storage, can only store strings. you can stringify an object, can be saved in local storage. </p>
+<p> If you don't save the information, it is isn't persistent. </p>
+<p> Strings/text easy to send over the internet. </p>
+<p> Generic data format with a minimal number of value types: strings, numbers, booleans, lists, objects, null. </p>
+<p> Now sections of pages could be reloaded instead the full page. </p>
+<p> You can create misshapen data. Only 1 number type. no date type. no comments. sometimes not the most concise data interchange format. </p>
+<p> Use of a native parser method. </p>
+<p> Utilites: Json formatter, json view, json beautifier, json converter. </p>
+
+### Local Storage
+<p> http is stateless, reset when you reopen. </p>
+<p> local storage allows you to save information without forcing someone to sign up. </p>
+<p> All you have to do is modify the localStorage (sessionStorage data only maintained until browser window closes) object in javascript, using setItem, getItem. </p>
+<p> How to clear-- not provided for Chrome. </p>
+
+
+
