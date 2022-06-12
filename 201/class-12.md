@@ -56,3 +56,12 @@
 <p> measureText() allows you to find out details about text. </p>
 <p> No more Geckos!</p>
 
+### CSS grid garden
+<p> grid fits in flexbox, when you have a child in a grid and want to start putting it places use grid-column-start: </p>
+<p> Use grid-column-end to extend the item across multiple columns "up to the right hand side"</p>
+<p> The first line of the column is counted </p>
+<p> You can use negative values to place items. -1 specifies first grid line from the right</p>
+<p>
+<p>
+<p>
+<p>
