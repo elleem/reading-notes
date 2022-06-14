@@ -34,23 +34,42 @@ https://learn.shayhowe.com/advanced-html-css/css-transforms/
 
 
 ### CSS Transitions and Animations
+<p> https://learn.shayhowe.com/advanced-html-css/transitions-animations/ </p>
 <p>What does a CSS transition allow the developer to do to an element?</p>
-<p>
+<p> allows developers to alter the behavior and appearance of elements </p>
 <p>How does a CSS animation differ from a CSS transition?</p>
-<p>
-<p>
-<p>
-<p>
-<p>
+<p> More about drawing in the other element, but this allows more animations. </p>
+<p> transition-property, transition-duration, transition-timing-function, transition-delay </p>
+<p> Use transition with a property such as background and can be separated by commas </p>
+<p> Not all properties can be transitioned. </p>
+<p> Use s and ms for transition-duration and use of fractions. </p>
+<p> transition timing key words include linear, ease-in, ease-out, ease-in-out </p>
+<p>transition: background .2s linear, border-radius 1s ease-in 1s </p>
+<p> card flip demo is rad. </p>
+<p> declare the animation name to the property on an element, via animation-name. </p>
+<p> You can specify if the animation will stop with an integer or infinite. </p>
+<p> animation-direction, animation-iteration, animation-duration, animation-timing-function, animation-delay, animation-direction (normal, reverse, alternate, alternate-reverse), animation-play-state (paused, running), animation-fill-mode (none, forwards, backwards, both) </p>
+<p> shorthand can be used, which I would have to have a ton of practice or note out separately to roll up like this example. </p>
 
 
-CSS3 Transitions
-<p>What are some benefits to using CSS transitions on websites? </p>
-<p>
-<p>How this topic fit in with your long-term goals? </p>
-<p>
-<p>
-<p>
-<p>
-<p>
+
+### CSS3 Transitions
+https://www.webdesignerdepot.com/2014/05/8-simple-css3-transitions-that-will-wow-your-users/
+<p> What are some benefits to using CSS transitions on websites? </p>
+<p> Excellent user experience, emphasizing functionality and draw attention to a call to action.
+<p> How this topic fit in with your long-term goals? </p>
+<p> I have seen swing so many times. I really think some of these I will use over and over.  </p>
+<p> Being competent at this at a drop of a hat would be great because I will be able to craft a lot of in demand items. </p>
+<p> This article covered 8 in demand transitions: </p>
+<ul>
+<li>1. fade in </li>
+<li>2. change color </li>
+<li>3. grow and shrink </li>
+<li>4. rotate </li>
+<li>5. square to circle (love this one) </li>
+<li>6. 3D shadow </li>
+<li>7. swing </li>
+<li>8. inset border</li> 
+</ul>
+
 
