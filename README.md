@@ -60,6 +60,6 @@ My name is Lauren. I live in Seattle and I am currently an analyst with King Cou
 
 [Reading15](201/class-15.md)
 
-## Code 301 Reading Notes
+## Code 301 Reading Notes 🪴
 
-## Code 401 Reading Notes
+## Code 401 Reading Notes 🌳
