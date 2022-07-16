@@ -62,4 +62,8 @@ My name is Lauren. I live in Seattle and I am currently an analyst with King Cou
 
 ## Code 301 Reading Notes 🪴
 
+[Reading1](301/reading1.md)
+
+[Reading2](301/reading2.md)
+
 ## Code 401 Reading Notes 🌳
