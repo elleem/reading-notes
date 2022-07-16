@@ -18,10 +18,28 @@ What are the characteristics of a component?
 <p> process related = instead of creating each component from scratch, uses a library. Components are selected and used to populate the architecture. Grids/buttons for control and utility components that use a subset of functions in the UI. Resource intensive, not frequently accessed and must be activated JIT, some are invisible. </p>
 
 What are the advantages of using component-based architecture?
+<ul>
+<li> ease of deployment and development</li>
+<li> reduced cost </li>
+<li> reusable</li>
+<li> modification of technical complexity</li>
+<li> reliability </li>
+<li> system maintenance and evolution </li>
+<li> independent </li>
+</ul>
+
+
+<br><br>
 <p> Allows for component reusability, tech that can be used in desktop application design, by drag and drop operation. </p> <p>Independent, connectors connected to components do not depend on other concrete components, which increase difficulty in expendability. </p>
 <p>Components can extend to other components and still offer its own extension points, allowing for plug-in based architecture, and plug-in API. </p>
+<p> Dependencies from left to right, inheritance from top to bottom. </p>
 
 ### What is Props and how to use in React
 What is “props” short for?
+<p> Properties </p>
+
 How are props used in React?
+<p> used to pass data from one component to another, like passing arguments to a function, props are arugments passed into React components </p>
+
 What is the flow of props?
+<p> uni-directional, from parent to child, 1-way </p>
