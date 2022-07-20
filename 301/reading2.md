@@ -39,3 +39,12 @@ summarized from [React Lifecycle](https://medium.com/@joshuablankenshipnola/reac
 <li> What are some examples of things that we could store in state?</li>
 <li>up to date count of the counter is handled inside of the counter (decrement, increment), stores user input </li>
 </ul>
+
+## Lecture Notes
+<li> to update state `this.setState({thingInState: thingToUpdate})`</li>
+<li> to send somethig in props to a child component: `<childComponenent bananas = 'randomString'/>`</li>
+
+### Bootstrap
+<li> provides all the buttons, type, forms, navigation</li>
+<li> You must use `className` instead of `class` when needing a CSS selector, because `class` is reserved in JavaScript.</li>
+<li>image.png </li>
