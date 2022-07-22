@@ -63,12 +63,13 @@ console.log (foodThree)
 ### Video review: passing functions between components
 
 In the video, what is the first step that the developer does to pass functions between components?
-
+name the function and then pass in the object, by finding the match in the object, in order to change the state. 
 
 In your own words, what does the increment function do?
-
+loops through the array to find the match, and then updates the match's state. 
 
 How can you pass a method from a parent component into a child component?
-
+using dot notation to reference the increment function and calling the method that exists on the parent, to pass back to the top level and change the state. Then re-render passes down the new value of count. 
 
 How does the child component invoke a method that was passed to it from a parent component?
+create the function with the state is that we are going to change
