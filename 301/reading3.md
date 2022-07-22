@@ -26,8 +26,8 @@ to assist react with iding which items are changed, added, removed in an array. 
 
 ### The Spread Operator
 
-What is the spread operator? ... oh god. that's why these are everywhere!
-a useful and quick syntax for adding items to arrays, combining arrays or objects, spreading an array out into a function's arguments. 
+What is the spread operator? literally  ... 
+a useful and quick syntax for adding items to arrays, combining arrays or objects, spreading an array out into a function's arguments. creates a copy of values, so that you can modify the copy, as opposed to mutating the original. 
 
 List 4 things that the spread operator can do.
 More like list 4 things it can't do!
@@ -54,10 +54,21 @@ console.log(...[...lauren,'...',...moreLauren])
 
 Give an example of using the spread operator to combine two objects into one.
 
+const foodOne={food:'🍿'}
+const foodTwo={condiment:'🧈'}
+const foodThree={...foodOne, ...foodTwo, seasoning:'🧂'}
+
+console.log (foodThree)
 
 ### Video review: passing functions between components
 
 In the video, what is the first step that the developer does to pass functions between components?
+
+
 In your own words, what does the increment function do?
+
+
 How can you pass a method from a parent component into a child component?
+
+
 How does the child component invoke a method that was passed to it from a parent component?
