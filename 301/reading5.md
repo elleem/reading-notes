@@ -4,6 +4,8 @@ summarized from: https://reactjs.org/docs/thinking-in-react.html and https://elo
 
 ### Things I Want to Know More About
 
+wow--the UTF-16 history is intense
+
 ### Questions
 
 ### Thinking in React
@@ -35,5 +37,15 @@ How can you identify where state needs to live?
 ### Higher-Order Functions
 
 What is a “higher-order function”?
+functions that operate on other functions, by taking them as arguments, or returning them, this allows us to abstract over actions.  They can create new functions, change other functions, or provide new types of control flow, but are especially helpful with data processing and composing operations. 
+
 Explore the greaterThan function as defined in the reading. In your own words, what is line 2 of this function doing?
+returns a boolean when the variable m is greater than the argument n 
+
 Explain how either map or reduce operates, with regards to higher-order functions.
+map() transforms an array by apply a function to all of its elements and building a new array from the return
+new array will have the same length as the input array, but its content is mapped to a new array 
+
+to do : check out some() method--takes test function and tells you whether that function is true for any elements in the array
+to do : read up on charCodeAt
+to do : read up on every method
