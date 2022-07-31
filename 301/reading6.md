@@ -45,5 +45,9 @@ What are the 6 reasons for pair programming?
 <li> Work environment readiness</li>
 <ol>
 In your experience, which of these reasons have you found most beneficial?
-How does pair programming work?
+
 Social skills, especially getting better at finding the words to describe the issue to another person on my own. That is my key struggle that I am working on each time with pair programming. 
+
+How does pair programming work?
+
+Allows one person to be the driver and one person to be the navigator. One person writes while the other directs.  Although special emphasis for me on the navigator researching because I have been in projects where the navigator wasn't researching and that is very tough!
