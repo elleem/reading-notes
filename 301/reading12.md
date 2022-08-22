@@ -11,16 +11,30 @@ summarized from: https://www.moesif.com/blog/technical/api-design/Which-HTTP-Sta
 
 In your own words, describe what each group of status code represents:
 
-100’s =
-200’s =
-300’s =
-400’s =
-500’s =
+100’s = informational status codes that tell the client that the header part of the request has been received and the server will try to comply with a transmission demand of the client. 
+
+200’s = success codes, request was accepted and meets the validation requirements at the time of sending
+
+300’s = redirection codes, the resource they are requesting isn't available at the expected location
+
+400’s = client error codes, invalid requests sent to a server, timeouts, wrong URI, authentication is missing
+
+500’s = server error codes, indicate problems with overwelmed servers, unreachable servers
+
 What is a status code 202?
+asynchronous processing of a request, req accepted and will be processed in the future
+
 What is a status code 308?
+permanent redirect, tells the client to use another URL to access the resource
+
 What code would you use if an update didn’t return data to a client?
+204 no content
+
 What code would you use if a resource used to exist but no longer does?
+308, permanent redirect
+
 What is the ‘Forbidden’ status code?
+403
 
 ### Build a REST API with Node.js, Express, & MongoDB
 
