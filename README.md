@@ -62,23 +62,23 @@ My name is Lauren. I live in Seattle and I am currently an analyst with King Cou
 
 ## Code 301 Reading Notes 🪴
 
-[Reading1](301/reading1.md)
+[Reading1](301/reading01.md)
 
-[Reading2](301/reading2.md)
+[Reading2](301/reading02.md)
 
-[Reading3](301/reading3.md)
+[Reading3](301/reading03.md)
 
-[Reading4](301/reading4.md)
+[Reading4](301/reading04.md)
 
-[Reading5](301/reading5.md)
+[Reading5](301/reading05.md)
 
-[Reading6](301/reading6.md)
+[Reading6](301/reading06.md)
 
-[Reading7](301/reading7.md)
+[Reading7](301/reading07.md)
 
-[Reading8](301/reading8.md)
+[Reading8](301/reading08.md)
 
-[Reading9](301/reading9.md)
+[Reading9](301/reading09.md)
 
 [Reading10](301/reading10.md)
 
