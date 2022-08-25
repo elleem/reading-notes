@@ -3,13 +3,17 @@ summarized from: https://medium.com/geekculture/crud-operations-explained-2a4409
 
 
 ### Things I Want to Know More About
-
+how to adopt Togo?!
 
 ### Questions
 
 ### CRUD Basics
+
 Which HTTP method would you use to update a record through an API?
+POST
+
 Which REST methods require an ID parameter?
+DELETE and UPDATE
 
 ### Speed Coding
 
@@ -26,4 +30,4 @@ If you had to describe the process of creating a RESTful API in 5 steps, what wo
 <li>determine if you need security, work on front end</li>
 </ol>
 
-note Insomnia extenstion, used monk instead of mongoose
+notes: Insomnia extenstion, used monk instead of mongoose
