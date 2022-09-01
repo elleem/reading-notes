@@ -44,4 +44,4 @@ What is Device Authorization Flow?
 Uses a link for a pc, or phone, so that input-constrained devices, can authorize the device
 
 What is Resource Owner Password Flow?
-highly trusted applications can use the flow to request users provide credentials using an interative form
+highly trusted applications can use the flow to request users provide credentials using an interactive form
