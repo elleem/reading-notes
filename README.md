@@ -5,10 +5,10 @@
 My name is Lauren. I live in Seattle and I am currently an analyst with King County government. This is my notes repo for Code Fellows. Thanks for taking the time to look at my page.  Here is my [github page](https://github.com/elleem).
 
 
-## Table of Contents 
+## Reading Notes
 ---
 
-## Code 102 Reading Notes 🌱
+## Code 102 - Intro to Software Development 🌱
 
 [Growth Mind Set](102/growthmindset.md)
 
@@ -26,7 +26,7 @@ My name is Lauren. I live in Seattle and I am currently an analyst with King Cou
 
 [Loops](102/loops.md)
 
-## Code 201 Reading Notes 🌿
+## Code 201 - Foundations of Software Development 🌿
 
 ---
 
@@ -60,7 +60,7 @@ My name is Lauren. I live in Seattle and I am currently an analyst with King Cou
 
 [Reading15](201/class-15.md)
 
-## Code 301 Reading Notes 🪴
+## Code 301 Intermediate Software Development 🪴
 
 [Reading1](301/reading01.md)
 
@@ -92,4 +92,6 @@ My name is Lauren. I live in Seattle and I am currently an analyst with King Cou
 
 [Reading15](301/reading15.md)
 
-## Code 401 Reading Notes 🌳
+## Code 401 - Advanced Software Development 🌳
+
+[Prework](401/prework.md)
