@@ -21,6 +21,8 @@ to see how much data
 
 ### AND OR
 An AND is essentially multiplication. An OR is logic addition, so AND first and then OR, use parenthesis to specify the order of operations
+
+
 ### Operators
 = equal
 < less than
@@ -34,7 +36,9 @@ LIKE a string matches a pattern
 ILIKE case insensitive version of LIKE
 SIMILAR TO a string matches a regex pattern
 
+### SQL BOLT screenshots
 
+<img width="206" alt="Lesson 3" src="https://user-images.githubusercontent.com/96095918/225795508-fcc3642d-2d3d-4710-adac-6c648cca4390.png">
 
 ## Engineering Readings
 
