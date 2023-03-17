@@ -49,6 +49,8 @@ INNER JOIN matches rows from the first and second table when they have the same 
 Use INSERT to update tables
 Use Update to take multiple column/value pairs and apply changes to each row that matches the WHERE statement
 
+Schemas very similar to noSQL
+
 
 ### SQL BOLT screenshots
 1-6 and 13-18
@@ -62,6 +64,9 @@ Use Update to take multiple column/value pairs and apply changes to each row tha
 <img width="191" alt="Exercise 13" src="https://user-images.githubusercontent.com/96095918/225807577-926aa09b-1e05-4a87-b0a2-3efdf14cf956.png">
 <img width="193" alt="Exercise 14" src="https://user-images.githubusercontent.com/96095918/225809112-0a15332b-a37e-4a40-b058-af41a82e7269.png">
 <img width="187" alt="Exercise 15" src="https://user-images.githubusercontent.com/96095918/225809477-d8324625-78be-4053-902d-37f65f733270.png">
+<img width="197" alt="Exercise 16" src="https://user-images.githubusercontent.com/96095918/225811558-f42a0da4-a826-4277-a5fe-f9041ece1ccb.png">
+<img width="188" alt="Exercise 17" src="https://user-images.githubusercontent.com/96095918/225812046-db70e0d9-b7ca-493a-ad12-8f7b1515a857.png">
+
 
 
 
