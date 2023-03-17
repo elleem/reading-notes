@@ -94,4 +94,6 @@ My name is Lauren. I live in Seattle and I am currently an analyst with King Cou
 
 ## Code 401 - Advanced Software Development 🌳
 
-[Prework](401/prework.md)
+[Prework DSA](401/DSA.md)
+[Prework Engineering](401/DSA.md)
+[Prework SQL](401/DSA.md)
