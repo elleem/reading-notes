@@ -51,6 +51,8 @@ Use Update to take multiple column/value pairs and apply changes to each row tha
 
 Schemas very similar to noSQL
 
+DROP will remove the table schema from the db entirely
+
 
 ### SQL BOLT screenshots
 1-6 and 13-18
@@ -66,6 +68,7 @@ Schemas very similar to noSQL
 <img width="187" alt="Exercise 15" src="https://user-images.githubusercontent.com/96095918/225809477-d8324625-78be-4053-902d-37f65f733270.png">
 <img width="197" alt="Exercise 16" src="https://user-images.githubusercontent.com/96095918/225811558-f42a0da4-a826-4277-a5fe-f9041ece1ccb.png">
 <img width="188" alt="Exercise 17" src="https://user-images.githubusercontent.com/96095918/225812046-db70e0d9-b7ca-493a-ad12-8f7b1515a857.png">
+<img width="191" alt="Exercise 18" src="https://user-images.githubusercontent.com/96095918/225812399-cdc2f2bf-9928-4acd-84c6-67b0132dad7e.png">
 
 
 
