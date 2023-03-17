@@ -42,8 +42,13 @@ SIMILAR TO a string matches a regex pattern
 
 entity data in the real world is often broken down into pieces and stored across multiple orthogonal tables using a process known as normalization, so that data can grow independently of each other. 
 
+### Database Maintenance
+
 Use JOIN to combine row data across separate tables. 
 INNER JOIN matches rows from the first and second table when they have the same key. 
+Use INSERT to update tables
+Use Update to take multiple column/value pairs and apply changes to each row that matches the WHERE statement
+
 
 ### SQL BOLT screenshots
 1-6 and 13-18
@@ -55,6 +60,8 @@ INNER JOIN matches rows from the first and second table when they have the same 
 <img width="203" alt="Exercise 5" src="https://user-images.githubusercontent.com/96095918/225805150-61b7bc16-826c-4361-8379-4b6cdeb48b6a.png">
 <img width="192" alt="Exercise 6" src="https://user-images.githubusercontent.com/96095918/225806422-1b7b302e-82f4-4640-bf31-106b52901589.png">
 <img width="191" alt="Exercise 13" src="https://user-images.githubusercontent.com/96095918/225807577-926aa09b-1e05-4a87-b0a2-3efdf14cf956.png">
+<img width="193" alt="Exercise 14" src="https://user-images.githubusercontent.com/96095918/225809112-0a15332b-a37e-4a40-b058-af41a82e7269.png">
+<img width="187" alt="Exercise 15" src="https://user-images.githubusercontent.com/96095918/225809477-d8324625-78be-4053-902d-37f65f733270.png">
 
 
 
