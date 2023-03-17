@@ -38,7 +38,10 @@ SIMILAR TO a string matches a regex pattern
 
 ### SQL BOLT screenshots
 
-<img width="206" alt="Lesson 3" src="https://user-images.githubusercontent.com/96095918/225795508-fcc3642d-2d3d-4710-adac-6c648cca4390.png">
+<img width="236" alt="Exercise 1" src="https://user-images.githubusercontent.com/96095918/225795921-d6f11cc9-e4e5-4635-9cb2-13c2f24bff40.png">
+<img width="236" alt="Exercise 2" src="https://user-images.githubusercontent.com/96095918/225796052-d711f1c4-3240-4f78-9401-a9d587b9760e.png">
+<img width="206" alt="Exercise 3" src="https://user-images.githubusercontent.com/96095918/225795508-fcc3642d-2d3d-4710-adac-6c648cca4390.png">
+
 
 ## Engineering Readings
 
