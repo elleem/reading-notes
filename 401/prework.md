@@ -54,6 +54,7 @@ INNER JOIN matches rows from the first and second table when they have the same 
 <img width="204" alt="Exercise 4" src="https://user-images.githubusercontent.com/96095918/225801624-64b23952-cb00-4268-b586-fb6cd649a3d9.png">
 <img width="203" alt="Exercise 5" src="https://user-images.githubusercontent.com/96095918/225805150-61b7bc16-826c-4361-8379-4b6cdeb48b6a.png">
 <img width="192" alt="Exercise 6" src="https://user-images.githubusercontent.com/96095918/225806422-1b7b302e-82f4-4640-bf31-106b52901589.png">
+<img width="191" alt="Exercise 13" src="https://user-images.githubusercontent.com/96095918/225807577-926aa09b-1e05-4a87-b0a2-3efdf14cf956.png">
 
 
 
