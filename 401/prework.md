@@ -14,6 +14,8 @@ SELECT * FROM artists LIMIT [# to limit by];
 ### OFFSET
 SELECT * FROM artists LIMIT [# to limit by] OFFSET [# of rows to skip];
 
+Filter and sort using DISTINCT to discard duplicate data, and ORDER BY to sort raw data. You may also need to limit results to a subset with LIMIT and OFFSET (for example like a reddit homepage)
+
 ### COUNT
 COUNT(*); 
 to see how much data
@@ -36,11 +38,23 @@ LIKE a string matches a pattern
 ILIKE case insensitive version of LIKE
 SIMILAR TO a string matches a regex pattern
 
+### Database Normalization
+
+entity data in the real world is often broken down into pieces and stored across multiple orthogonal tables using a process known as normalization, so that data can grow independently of each other. 
+
+Use JOIN to combine row data across separate tables. 
+INNER JOIN matches rows from the first and second table when they have the same key. 
+
 ### SQL BOLT screenshots
+1-6 and 13-18
 
 <img width="236" alt="Exercise 1" src="https://user-images.githubusercontent.com/96095918/225795921-d6f11cc9-e4e5-4635-9cb2-13c2f24bff40.png">
 <img width="236" alt="Exercise 2" src="https://user-images.githubusercontent.com/96095918/225796052-d711f1c4-3240-4f78-9401-a9d587b9760e.png">
 <img width="206" alt="Exercise 3" src="https://user-images.githubusercontent.com/96095918/225795508-fcc3642d-2d3d-4710-adac-6c648cca4390.png">
+<img width="204" alt="Exercise 4" src="https://user-images.githubusercontent.com/96095918/225801624-64b23952-cb00-4268-b586-fb6cd649a3d9.png">
+<img width="203" alt="Exercise 5" src="https://user-images.githubusercontent.com/96095918/225805150-61b7bc16-826c-4361-8379-4b6cdeb48b6a.png">
+<img width="192" alt="Exercise 6" src="https://user-images.githubusercontent.com/96095918/225806422-1b7b302e-82f4-4640-bf31-106b52901589.png">
+
 
 
 ## Engineering Readings
