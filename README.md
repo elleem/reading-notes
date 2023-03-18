@@ -30,67 +30,67 @@ My name is Lauren. I live in Seattle and I am currently an analyst with King Cou
 
 ---
 
-[Reading1](201/class-01.md)
+[Reading 1](201/class-01.md)
 
-[Reading2](201/class-02.md)
+[Reading 2](201/class-02.md)
 
-[Reading3](201/class-03.md)
+[Reading 3](201/class-03.md)
 
-[Reading4](201/class-04.md)
+[Reading 4](201/class-04.md)
 
-[Reading5](201/class-05.md)
+[Reading 5](201/class-05.md)
 
-[Reading6](201/class-06.md)
+[Reading 6](201/class-06.md)
 
-[Reading7](201/class-07.md)
+[Reading 7](201/class-07.md)
 
-[Reading8](201/class-08.md)
+[Reading 8](201/class-08.md)
 
-[Reading9](201/class-09.md)
+[Reading 9](201/class-09.md)
 
-[Reading10](201/class-10.md)
+[Reading 10](201/class-10.md)
 
-[Reading11](201/class-11.md)
+[Reading 11](201/class-11.md)
 
-[Reading12](201/class-12.md)
+[Reading 12](201/class-12.md)
 
-[Reading13](201/class-13.md)
+[Reading 13](201/class-13.md)
 
-[Reading14](201/class-14.md)
+[Reading 14](201/class-14.md)
 
-[Reading15](201/class-15.md)
+[Reading 15](201/class-15.md)
 
 ## Code 301 Intermediate Software Development 🪴
 
-[Reading1](301/reading01.md)
+[Reading 1](301/reading01.md)
 
-[Reading2](301/reading02.md)
+[Reading 2](301/reading02.md)
 
-[Reading3](301/reading03.md)
+[Reading 3](301/reading03.md)
 
-[Reading4](301/reading04.md)
+[Reading 4](301/reading04.md)
 
-[Reading5](301/reading05.md)
+[Reading 5](301/reading05.md)
 
-[Reading6](301/reading06.md)
+[Reading 6](301/reading06.md)
 
-[Reading7](301/reading07.md)
+[Reading 7](301/reading07.md)
 
-[Reading8](301/reading08.md)
+[Reading 8](301/reading08.md)
 
-[Reading9](301/reading09.md)
+[Reading 9](301/reading09.md)
 
-[Reading10](301/reading10.md)
+[Reading 10](301/reading10.md)
 
-[Reading11](301/reading11.md)
+[Reading 11](301/reading11.md)
 
-[Reading12](301/reading12.md)
+[Reading 12](301/reading12.md)
 
-[Reading13](301/reading13.md)
+[Reading 13](301/reading13.md)
 
-[Reading14](301/reading14.md)
+[Reading 14](301/reading14.md)
 
-[Reading15](301/reading15.md)
+[Reading 15](301/reading15.md)
 
 ## Code 401 - Advanced Software Development 🌳
 
@@ -102,4 +102,92 @@ My name is Lauren. I live in Seattle and I am currently an analyst with King Cou
 
 [Prework Terminal](401/terminal.md)
 
-[Reading1](401/reading01.md)
+[Reading 1](401/reading01.md)
+
+[Reading 2](401/reading01.md)
+
+[Reading 3](401/reading01.md)
+
+[Reading 4](401/reading01.md)
+
+[Reading 5](401/reading01.md)
+
+[Reading 6](401/reading01.md)
+
+[Reading 7](401/reading01.md)
+
+[Reading 8](401/reading01.md)
+
+[Reading 9](401/reading01.md)
+
+[Reading 10](401/reading01.md)
+
+[Reading 11](401/reading01.md)
+
+[Reading 12](401/reading01.md)
+
+[Reading 13](401/reading01.md)
+
+[Reading 14](401/reading01.md)
+
+[Reading 15](401/reading01.md)
+
+[Reading 16](401/reading01.md)
+
+[Reading 17](401/reading01.md)
+
+[Reading 18](401/reading01.md)
+
+[Reading 19](401/reading01.md)
+
+[Reading 20](401/reading01.md)
+
+[Reading 21](401/reading01.md)
+
+[Reading 22](401/reading01.md)
+
+[Reading 23](401/reading01.md)
+
+[Reading 24](401/reading01.md)
+
+[Reading 25](401/reading01.md)
+
+[Reading 26](401/reading01.md)
+
+[Reading 27](401/reading01.md)
+
+[Reading 28](401/reading01.md)
+
+[Reading 29](401/reading01.md)
+
+[Reading 30](401/reading01.md)
+
+[Reading 31](401/reading01.md)
+
+[Reading 32](401/reading01.md)
+
+[Reading 33](401/reading01.md)
+
+[Reading 34](401/reading01.md)
+
+[Reading 35](401/reading01.md)
+
+[Reading 36](401/reading01.md)
+
+[Reading 37](401/reading01.md)
+
+[Reading 38](401/reading01.md)
+
+[Reading 39](401/reading01.md)
+
+[Reading 40](401/reading01.md)
+
+[Reading 41](401/reading01.md)
+
+[Reading 42](401/reading01.md)
+
+[Reading 43](401/reading01.md)
+
+
+
+
