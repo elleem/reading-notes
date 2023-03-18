@@ -28,7 +28,7 @@ My name is Lauren. I live in Seattle and I am currently an analyst with King Cou
 
 | Code 201 - Foundations of Software Development 🌿| Code 301 Intermediate Software Development 🪴| Code 401 - Advanced Software Development 🌳|
 
--------|-------|-------
+| :-------: | :-------: | :-------:|
 
 |[Reading 1](201/class-01.md)|[Reading 1](301/reading01.md)|[Reading 1](401/reading01.md)|
 
