@@ -104,89 +104,89 @@ My name is Lauren. I live in Seattle and I am currently an analyst with King Cou
 
 [Reading 1](401/reading01.md)
 
-[Reading 2](401/reading01.md)
+[Reading 2](401/reading02.md)
 
-[Reading 3](401/reading01.md)
+[Reading 3](401/reading03.md)
 
-[Reading 4](401/reading01.md)
+[Reading 4](401/reading04.md)
 
-[Reading 5](401/reading01.md)
+[Reading 5](401/reading05.md)
 
-[Reading 6](401/reading01.md)
+[Reading 6](401/reading06.md)
 
-[Reading 7](401/reading01.md)
+[Reading 7](401/reading07.md)
 
-[Reading 8](401/reading01.md)
+[Reading 8](401/reading08.md)
 
-[Reading 9](401/reading01.md)
+[Reading 9](401/reading09.md)
 
-[Reading 10](401/reading01.md)
+[Reading 10](401/reading10.md)
 
-[Reading 11](401/reading01.md)
+[Reading 11](401/reading11.md)
 
-[Reading 12](401/reading01.md)
+[Reading 12](401/reading12.md)
 
-[Reading 13](401/reading01.md)
+[Reading 13](401/reading13.md)
 
-[Reading 14](401/reading01.md)
+[Reading 14](401/reading14.md)
 
-[Reading 15](401/reading01.md)
+[Reading 15](401/reading15.md)
 
-[Reading 16](401/reading01.md)
+[Reading 16](401/reading16.md)
 
-[Reading 17](401/reading01.md)
+[Reading 17](401/reading17.md)
 
-[Reading 18](401/reading01.md)
+[Reading 18](401/reading18.md)
 
-[Reading 19](401/reading01.md)
+[Reading 19](401/reading19.md)
 
-[Reading 20](401/reading01.md)
+[Reading 20](401/reading20.md)
 
-[Reading 21](401/reading01.md)
+[Reading 21](401/reading21.md)
 
-[Reading 22](401/reading01.md)
+[Reading 22](401/reading22.md)
 
-[Reading 23](401/reading01.md)
+[Reading 23](401/reading23.md)
 
-[Reading 24](401/reading01.md)
+[Reading 24](401/reading24.md)
 
-[Reading 25](401/reading01.md)
+[Reading 25](401/reading25.md)
 
-[Reading 26](401/reading01.md)
+[Reading 26](401/reading26.md)
 
-[Reading 27](401/reading01.md)
+[Reading 27](401/reading27.md)
 
-[Reading 28](401/reading01.md)
+[Reading 28](401/reading28.md)
 
-[Reading 29](401/reading01.md)
+[Reading 29](401/reading29.md)
 
-[Reading 30](401/reading01.md)
+[Reading 30](401/reading30.md)
 
-[Reading 31](401/reading01.md)
+[Reading 31](401/reading31.md)
 
-[Reading 32](401/reading01.md)
+[Reading 32](401/reading32.md)
 
-[Reading 33](401/reading01.md)
+[Reading 33](401/reading33.md)
 
-[Reading 34](401/reading01.md)
+[Reading 34](401/reading34.md)
 
-[Reading 35](401/reading01.md)
+[Reading 35](401/reading35.md)
 
-[Reading 36](401/reading01.md)
+[Reading 36](401/reading36.md)
 
-[Reading 37](401/reading01.md)
+[Reading 37](401/reading37.md)
 
-[Reading 38](401/reading01.md)
+[Reading 38](401/reading38.md)
 
-[Reading 39](401/reading01.md)
+[Reading 39](401/reading39.md)
 
-[Reading 40](401/reading01.md)
+[Reading 40](401/reading40.md)
 
-[Reading 41](401/reading01.md)
+[Reading 41](401/reading41.md)
 
-[Reading 42](401/reading01.md)
+[Reading 42](401/reading42.md)
 
-[Reading 43](401/reading01.md)
+[Reading 43](401/reading43.md)
 
 
 
