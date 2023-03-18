@@ -140,18 +140,6 @@ My name is Lauren. I live in Seattle and I am currently an analyst with King Cou
 
 [Reading 19](401/reading19.md)
 
-[Reading 20](401/reading20.md)
-
-[Reading 21](401/reading21.md)
-
-[Reading 22](401/reading22.md)
-
-[Reading 23](401/reading23.md)
-
-[Reading 24](401/reading24.md)
-
-[Reading 25](401/reading25.md)
-
 [Reading 26](401/reading26.md)
 
 [Reading 27](401/reading27.md)
