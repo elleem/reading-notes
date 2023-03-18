@@ -34,13 +34,13 @@ My name is Lauren. I live in Seattle and I am currently an analyst with King Cou
 |[Java](102/javascript.md)|[Reading 6](201/class-06.md)|[Reading 6](301/reading06.md)|[Reading 6](401/reading06.md)|
 |[Programming](102/programming.md)|[Reading 7](201/class-07.md)|[Reading 7](301/reading07.md)|[Reading 7](401/reading07.md)|
 |[Loops](102/loops.md)|[Reading 8](201/class-08.md)|[Reading 8](301/reading08.md)|[Reading 8](401/reading08.md)|
-||[Reading 9](201/class-09.md)|[Reading 9](301/reading09.md)|[Reading 9](401/reading09.md)|
-||[Reading 10](201/class-10.md)|[Reading 10](301/reading10.md)|[Reading 10](401/reading10.md)|
-||[Reading 11](201/class-11.md)|[Reading 11](301/reading11.md)|[Reading 11](401/reading11.md)|
-||[Reading 12](201/class-12.md)|[Reading 12](301/reading12.md)|[Reading 12](401/reading12.md)|
-||[Reading 13](201/class-13.md)|[Reading 13](301/reading13.md)|[Reading 13](401/reading13.md)|
-||[Reading 14](201/class-14.md)|[Reading 14](301/reading14.md)|[Reading 14](401/reading14.md)|
-||[Reading 15](201/class-15.md)|[Reading 15](301/reading15.md)|[Reading 15](401/reading15.md)|
+|   |[Reading 9](201/class-09.md)|[Reading 9](301/reading09.md)|[Reading 9](401/reading09.md)|
+|   |[Reading 10](201/class-10.md)|[Reading 10](301/reading10.md)|[Reading 10](401/reading10.md)|
+|   |[Reading 11](201/class-11.md)|[Reading 11](301/reading11.md)|[Reading 11](401/reading11.md)|
+|   |[Reading 12](201/class-12.md)|[Reading 12](301/reading12.md)|[Reading 12](401/reading12.md)|
+|   |[Reading 13](201/class-13.md)|[Reading 13](301/reading13.md)|[Reading 13](401/reading13.md)|
+|   |[Reading 14](201/class-14.md)|[Reading 14](301/reading14.md)|[Reading 14](401/reading14.md)|
+|   |[Reading 15](201/class-15.md)|[Reading 15](301/reading15.md)|[Reading 15](401/reading15.md)|
 
 
 [Prework DSA](401/DSA.md)
