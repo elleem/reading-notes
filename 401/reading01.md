@@ -112,7 +112,24 @@ nodes--don't have to live next to each other, as long as they know where to find
 
 18:26 constant time, does matter how much your input grows
 
-20:05 how can you do more things, when you have more things? 2 secs to add a book on top of the stack 
+20:05 how can you do more things, when you have more things? 2 secs to add a book on top of the stack an example of constant time
+
+For linked list, doesn’t care how many nodes there are
+23:17
+Different insert points matter for h big 0
+
+24:21 Traverse the whole node? Linear time
+
+25:37 Quadratic time, fibanocci books
+
+28:00 helps you evaluate whether to use to an array or a node
+
+28:59 It could be hard to insert things in a raise, because you might not have enough memory, so you would have to rebuild the whole array which would slow things down.
+
+29:30 Searching in a linked list could be hard, vs the array
+
+31:13 The book example mimics a stack
+What is a real world example of when you want to insert to the top of the list
 
 
 
