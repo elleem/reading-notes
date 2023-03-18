@@ -101,3 +101,5 @@ My name is Lauren. I live in Seattle and I am currently an analyst with King Cou
 [Prework SQL](401/SQL.md)
 
 [Prework Terminal](401/terminal.md)
+
+[Reading1](401/reading01.md)
