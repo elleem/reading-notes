@@ -20,6 +20,18 @@ How to build grit? Not known, but building upon Carol's talk it's likely a growt
 
 ### Redefining Success
 
+Anxiety about our careers, comes to us via snobs. We care about our careers so much because respect is also awarded in this type of heirarchy. 
+
+There's a spirit of equality and the messaging is that you should be as successful as Bill Gates. 
+
+Failure is almost where you "should" be in a meritocracy. 
+
+Our heroes and villians are humans, instead of a religion.
+
+We like to see things that aren't human, such as nature.
+
+Really talking about success and failure. 
+
 ### Emotional Bias
 
 It would surprise no one in my life to see that I scored low on self-awareness, since I would say I have a very high imposter's syndrome. 
