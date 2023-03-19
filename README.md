@@ -35,6 +35,10 @@ My name is Lauren. I live in Seattle and I am currently an analyst with King Cou
 
 [Prework Terminal](401/terminal.md)
 
+[Prework Mindset](401/mindset.md)
+
+[Prework Python](401/python.md)
+
 
 
 
