@@ -23,5 +23,7 @@ Many values can be assigned to one variable.
 
 There are tuples (multiple items in a single variable)! Anyway, as I would expect from a language that is handling a lot of data there are also sets and dictionaries, in addition to arrays (lists).
 
+Honestly the ability to use a wild card for some functions is pretty startling!! 
+
 
 
