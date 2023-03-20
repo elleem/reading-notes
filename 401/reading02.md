@@ -49,7 +49,9 @@ fact(1)=1 <br>
 fact(4)=4*3*2*1 <br>
 24 <br>
 
-recursively method will need a stack
+A recursion method will need a stack because there are many versions of n.
+
+Each frame handles each different n, until the break in the stack is reached, and then the value of n can be returned to each frame that is waiting to solve via the function you have written. 
 
 
 
