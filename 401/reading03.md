@@ -1,6 +1,7 @@
 ## FileIO & Exceptions
 
 #### Things I Want to Know More About
+FYI, the video assigned is paywalled, so I followed this (Corey Schafer)[https://www.youtube.com/watch?v=Uh2ebFW8OYM]
 
 ### Read & Write Files
 
@@ -50,6 +51,8 @@ Now you'll want to read and write to the file.
 
 `.readline(size=-1)` reads at most size number of char from the line, continues and wraps back around, same as above for no, none, and -1
 
+`.read()` returns file as a single string
+
 use this method to iterate over the file object itself:
 
 `with open('dog_breeds.txt','r') as reader:`
@@ -58,8 +61,65 @@ use this method to iterate over the file object itself:
 
     `print(line, end='')`
 
+`.(write)string` writes the str to the file.
+
+`.writelines(seq)` writes the seq to the file. no line endings, and you will add them. 
+
+__file__  allows for the pathname of the file from which the module was loaded
+
+use `'a'` to append to a file
+
+You can combine read/write in instances of creating a new file. 
+
+__enter__ __exit__ to create context manager
+
+There are special libraries to manage many different file types.
+
+There are special modules for CSV and JSON.
+
 
 ### Exceptions 
 
+There are built in python exceptions, and you can create self defined exceptions. 
+
+(exceptions)[https://docs.python.org/3/library/exceptions.html]
+
+You can assert exceptions, ex `asser('linux' in sys.platform)`
+
+You can use a try/except block to run code.
+
+The code block will only run up to when the first exception is encountered. 
+
+The except clause determine what will happen with the exception, you can anticipate multiple exceptions.
+
+Else helps w/ multiple exceptions. 
+
 ### Read & Write Videos
+
+Covers the read & write article using video, but they are paywalled after the intro and the open/close. 
+
+with is a context manager
+
+Paths are covered so closely in the reading because you may have to use the path to read/write the file.
+
+covers printing the name of the file to ensure you are opening the correct file
+
+`print(f.name)`
+
+`print(f.mode)`  will tell you how you are opening the file 
+
+`print(f.closed)` you still have access to the f variable, even though you have closed it with the context manager.
+
+`.readline` singular reads one line and then continues on each time it is run.
+
+The for loop allows you not to add everything into the memory!!! Aha.
+
+Can use seek to set it back to the beginning. 
+
+Demos how to read a file and then write a copy, which is pretty dang cool. 
+
+Demos how to copy a picture and pictures in sizes. 
+
+OHHH--that's why you would use binary mode, for pictures.
+
 
