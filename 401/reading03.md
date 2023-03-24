@@ -1,7 +1,7 @@
 ## FileIO & Exceptions
 
 #### Things I Want to Know More About
-FYI, the video assigned is paywalled, so I followed this (Corey Schafer)[https://www.youtube.com/watch?v=Uh2ebFW8OYM]
+FYI, the video assigned is paywalled, so I followed [Corey Schafer's tutorial](https://www.youtube.com/watch?v=Uh2ebFW8OYM)
 
 ### Read & Write Files
 
@@ -82,7 +82,7 @@ There are special modules for CSV and JSON.
 
 There are built in python exceptions, and you can create self defined exceptions. 
 
-(exceptions)[https://docs.python.org/3/library/exceptions.html]
+[exceptions](https://docs.python.org/3/library/exceptions.html)
 
 You can assert exceptions for specific conditions, ex `assert('linux' in sys.platform)`
 
