@@ -84,7 +84,9 @@ There are built in python exceptions, and you can create self defined exceptions
 
 (exceptions)[https://docs.python.org/3/library/exceptions.html]
 
-You can assert exceptions, ex `asser('linux' in sys.platform)`
+You can assert exceptions for specific conditions, ex `assert('linux' in sys.platform)`
+
+`raise` allows you to throw an exception at any time. 
 
 You can use a try/except block to run code.
 
@@ -93,6 +95,8 @@ The code block will only run up to when the first exception is encountered.
 The except clause determine what will happen with the exception, you can anticipate multiple exceptions.
 
 Else helps w/ multiple exceptions. 
+
+Finally, allows you to implement an action to clean up after executing your code and it will always run.
 
 ### Read & Write Videos
 
