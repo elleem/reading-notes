@@ -2,7 +2,9 @@
 
 #### Things I Want to Know More About
 
-global mutable state
+global mutable state, 
+
+If you fixture uses 'yield' instead of 'return', pytest understands that the post yield code is for tearing down objects and connections.
 
 ### Classes and Objects
 
@@ -70,3 +72,22 @@ Then you can access the fixture by name. (very cool)
    `assert reverse_lines(simple_file) == ['cba\n', 'fed\n', 'ihg\n', 'lkj\n']`
 
 Set the fixture's scope to be module, it will be available throughout your tests, but only execute only a single time. 
+
+If you fixture uses 'yield' instead of 'return', pytest understands that the post yield code is for tearing down objects and connections.
+
+Module scope? Pytest will wiat until all functions in the scope have finished before tearing it down. 
+
+#### Coverage
+
+Yes, I did wonder about this in assignment 2.
+
+The tests I am running are checking for the conditions I have specified and it was hard to understand how to test for unexpected conditions. 
+
+Use pytest-cov and invoke with `--cov`
+
+
+You'll get a coverage report for every part of the python library your program used, so you should specify which programs you want to test.
+
+Then turn the report into something human readable, such as HTML. 
+
+That will create a directory, called htmlcov and you can open the index.html file using your browser to see a web-based report of the coverage gaps. 
