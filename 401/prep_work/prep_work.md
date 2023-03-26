@@ -1,13 +1,13 @@
 ## Prepwork
 
-[DSA](401/prep_work/DSA.md)
+[DSA](DSA.md)
 
-[Engineering](401/prep_work/engineering.md)
+[Engineering](engineering.md)
 
-[Mindset](401/prep_work/mindset.md)
+[Mindset](mindset.md)
 
-[Python](401/prep_work/python.md)
+[Python](python.md)
 
-[SQL](401/prep_work/SQL.md)
+[SQL](SQL.md)
 
-[Terminal](401/prep_work/terminal.md)
+[Terminal](terminal.md)
