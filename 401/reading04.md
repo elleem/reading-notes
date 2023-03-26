@@ -75,7 +75,9 @@ Set the fixture's scope to be module, it will be available throughout your tests
 
 If you fixture uses 'yield' instead of 'return', pytest understands that the post yield code is for tearing down objects and connections.
 
-Module scope? Pytest will wiat until all functions in the scope have finished before tearing it down. 
+Module scope? Pytest will wait until all functions in the scope have finished before tearing it down. 
+
+Note: now if one test does not work in this new method, then it will fail at this point, and not test other tests with the same dependencies that blocked the first point at which the tests fail. 
 
 #### Coverage
 
