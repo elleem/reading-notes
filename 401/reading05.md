@@ -6,6 +6,31 @@
 
 ### Big O: Analysis of Algorithm Efficiency
 
+Notation that describes the efficiency of an algorithm or function, based on time and space.
+
+We are looking at worst case of efficiency, using input size, units of measurement, orders of growth, best, worst and average case. 
+
+n refers to the input size value, the higher this number, there will be an increase in time and space. 
+
+Time: 
+1. milliseconds from the start to the end
+2. the number of operations that are executed (lines of code)
+3. the number of basic operations (the most time consuming operation within the inner most loop)
+
+Memory: 
+1. needed to hold code for the algorithm.
+2. for the input
+3. for the output
+4. needed to hold working space during the calculation (including stack space)
+
+Constant = 1
+Logarithmic = lgn, as complexity decreases the greater our value of n
+Linear = n
+Linearithmic complexity = n*lgn, growth rate of n by lorarithmic
+Quadratic = n^2, nested for loop
+Cubic complexity = n^3, even more for loops
+Factorial/exponential complexity = n!, extreme calculations!
+
 ### Linked Lists
 
 Sequence of Nodes that connected to each other. Each Node references the next Node in the link. 
