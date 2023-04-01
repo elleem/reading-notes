@@ -65,4 +65,40 @@ Printing out Nodes requires a while loop to traverse through the linked list, st
 
 ### What's a Linked List, Part 1
 
+Linear data structures, sequence and order to how they are constructed and traversed.
+
+Hashes are dictionaries, that are non-linear. 
+
+The difference between lists and linked lists is the way they use memory. A list has to live together, while a linked list can be spread out in memory.
+
+Dynamic data structures can shrink, grow, can change, along with the amount of memory needed.
+
+Series of nodes, starting with a head, where the list starts, and the end value is null. 
+
+A single node contains the data and then the pointer to the next node. 
+
+Singly linked lists traverse in one direction.
+
+Doubly linked lists can traverse in both directions, and add in a pointer back to the previous node. 
+
+Circular linked lists, doesn't end with a node pointing to a  null value. It has a tail node that points back to the head node. 
+
 ### What's a Linked List, Part 2
+
+Interesting: It's hard to make strong statmeents about the exact runtime of an algorithm, so instead we use big O to express how quickly its runtime grows. 
+
+We just rearrange the pointers to add something to a list. list insert shift.
+
+Adding something to the beginning is O(1)
+
+Adding something at the end is O(n)
+
+It can be more difficult to remove items, especially specific items. 
+
+Linked lists only allocate resources as required at runtime, using non-contiguous chunks of memory.
+
+Searching may be faster in an list due to indexes. 
+
+List: if you know the size, you need random access to e, or want to iterate quickly.
+
+Linked list: if you don't know the size, mostly want to add or remove things quickly, w/o random access.
