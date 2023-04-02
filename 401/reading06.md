@@ -24,11 +24,17 @@ import random and use the various functions to generate random items, based on y
 
 In the context of software development, what is risk analysis, and what are the key steps involved in conducting a risk analysis for a software project?
 
-the possibility of any unwanted incident, identify the risks in software and prioritizing them to test. You should prioritize the list, assign level of risk, and then categorize the risks. After this you can calculate the impact of risk. 
+The possibility of any unwanted incidents. Identify the risks in software and prioritizing them to test. 
+
+You should prioritize the list, assign level of risk, and then categorize the risks. After this you can calculate the impact of risk. 
 
 ### Test coverage
 
 What is test coverage and why is it an important (or potentially misleading) metric in software testing?
+
+Test coverage helps you find untested parts of the codebase, but does not tell you how good your tests are. 
+
+You can reach a high test coverage number with low quality testing. 
 
 ### Big O Notation
 
