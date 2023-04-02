@@ -8,7 +8,9 @@
 
 How can the random module be utilized in Python to generate random numbers or make selections from a list, and what are some common functions available within the module?
 
-import random and use the various functions to generate random items, based on your specific needs
+import random and use the various functions to generate random items, based on your specific needs, but not security or crypto.
+
+Uses the Mersenne Twister as the core generator. The functions supplied by this module are bound methods of a hidden instance of random. You can instantiate your own instances of Random to get generators that don't share state. 
 
 `randint()` creates random strings w/n a range, input 2 numbers, which are the start and end of range, output int w/n range
 
@@ -36,9 +38,17 @@ Test coverage helps you find untested parts of the codebase, but does not tell y
 
 You can reach a high test coverage number with low quality testing. 
 
+You might not be able to pass all your tests and then you might have an 80% or 90% pass rate. 
+
+If a simple change to code causes long changes to test, you may have too many tests.
+
 ### Big O Notation
 
 What is Big O notation, and how is it used to describe the performance of an algorithm? Give an example of an everyday task (not software related) that demonstrates O(n) time complexity.
+
+Big O describes the time efficiency of an algorithm, ie how the running time increases as the input increases.  It evaluates worst-case scenario. 
+
+An example of linear time complexity is sorting a deck of cards. It increases with the n of the cards in the deck.
 
 
 
