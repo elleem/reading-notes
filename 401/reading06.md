@@ -50,6 +50,14 @@ Big O describes the time efficiency of an algorithm, ie how the running time inc
 
 An example of linear time complexity is sorting a deck of cards. It increases with the n of the cards in the deck.
 
+4:54 different steps get added. You if you have a first step that takes O(a) and a second step that takes O(b), you add those runtimes to get O(ab). 
+
+5:17 The second rule is that you drop the constants. Even there are two different loops, they are both O(n), not O(n2) and so the final big O is O(n).
+
+6:30 different inputs must have different variables. So you have O(n*m)
+
+7:32 Drop non-dominate terms, or reduce down to the O(n2)
+
 
 
 
