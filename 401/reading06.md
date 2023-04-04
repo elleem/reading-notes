@@ -58,6 +58,18 @@ An example of linear time complexity is sorting a deck of cards. It increases wi
 
 7:32 Drop non-dominate terms, or reduce down to the O(n2)
 
+### Dependency Injection
+
+There are 3 types of dependency injection. 
+
+1. Constructor injection: dependencies are provided through a class construction and cannot be instantiated without the dependency, which is helpful when the dependency is mandatory. 
+
+2. Setter injection: the client exposes a setter method that the injector uses to inject the dependency, class can be created without the dependency and the dependencies can be added later, which is helpful when the dependency needs to be changed or updated at runtime. 
+
+3. interface injection: the dependency provides an injector method, that will inject the dependency into any client passed into it. Clients must implement an interface with a setter method that accepts the dependency. 
+
+This speaks to the idea that a class should depend on abstraction and not be hard-coded. A library in Python that might use this is Django. 
+
 
 
 
