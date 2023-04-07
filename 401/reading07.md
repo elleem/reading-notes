@@ -1,4 +1,4 @@
-## Ten Thousand 1
+## Ten Thousand 2
 
 #### Things I Want to Know More About
 
