@@ -5,9 +5,33 @@
 
 
 ### List Comprehensions
-What is the basic syntax of Python list comprehension, and how does it differ from using a for loop to create a list? Provide an example of a list comprehension that squares the elements in a given list of integers.
+What is the basic syntax of Python list comprehension, and how does it differ from using a for loop to create a list? 
 
+The basic syntax is `my_new_list = [ expression for item in list ]`
 
+`digits = [x for x in range(10)]`
+
+output [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+
+The expression is in the square brackets, item inside the square brackets is the object the expression will work on. The iterable list is noted by the list inside the square brackets. 
+
+You will perform an expression on each item in the list, the expression will determine what item is eventually stored in the output list. You can also add conditional statements in the form of filters. 
+
+It is much faster than a for loop. 
+
+Provide an example of a list comprehension that squares the elements in a given list of integers.
+
+`squares = [x**2 for x in range(10)]`
+
+`print(squares)`
+
+output [0, 1, 4, 9, 16, 25, 36, 49, 64, 81]
+
+Using a filter: 
+
+`even_numbers = [ x for x in range(1,20) if x % 2 == 0]`
+
+output [2, 4, 6, 8, 10, 12, 14, 16, 18]
 
 ### Debugging with PySnooper
 
@@ -15,4 +39,22 @@ What is the basic syntax of Python list comprehension, and how does it differ fr
 
 What is a decorator in Python?
 
+decorators wrap a function, modifying its behavior. 
+
 Explain the concept of decorators in Python. How do they work, and what are some common use cases for them? Provide an example of a simple decorator function from the reading.
+
+when returning first child without parentheses, you are returning a reference to the function. 
+
+```python 
+def parent(num):
+    def first_child():
+        return "Hi, I am Emma"
+
+    def second_child():
+        return "Call me Liam"
+
+    if num == 1:
+        return first_child
+    else:
+        return second_child
+```
