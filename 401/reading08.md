@@ -39,7 +39,7 @@ output [2, 4, 6, 8, 10, 12, 14, 16, 18]
 
 What is a decorator in Python?
 
-decorators wrap a function, modifying its behavior. 
+decorators wrap a function, modifying its behavior. use the @ symbol, sometimes called pie syntax. 
 
 Explain the concept of decorators in Python. How do they work, and what are some common use cases for them? Provide an example of a simple decorator function from the reading.
 
