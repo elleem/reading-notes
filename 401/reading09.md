@@ -34,11 +34,23 @@ use `__call__` to make objects callable, tell the method what you want it to do 
 
 Statistical features, such as boxplots, created via median, max, min values. 
 
-small data is close together, grande data is further apart, the median helps you understand where the weight it is on data set. 
+Terms: Third quartile is 75% of the data, first quartile is 25% of the data. 
 
-probability distribution, uniform distribution
+Boxplots deliver a lot of infromation: small data is close together, grande data is further apart, the median helps you understand where the weight it is on data set. 
 
-bayesian statistics versus frequentist statistics
+Probability distribution,  percent chance that an event will occur, function of the probability of all possible values
+
+Uniform distribution, on/ off distribution
+
+Poisson distribution, discrete porbability distribution that a certain number of events will occur in a fixed time or space, given the average rate at which these events occur. ie: an average of 10 cars pass by an intersection per hour, we can use poisson to understand the probability of seeing 5 cars in a given hour. 
+
+Bayesian statistics (does take into account added evidence, may be used when prior data may not be a good indicator of probability) versus frequentist statistics (analyze probability only with prior data)
+
+Note: Naive Bayes classifier, up sampling, down samplling, dimensionality reduction
+
+Statistical features like bias, vairance, and many others help us explore a dataset to gain valuable insights. <br>
+Probability distributions define the % chance that some event will occur and can be used to understand the spread of data. <br>
+Bayesian statistics express probability as a degree of belief in an event which can change as new infromation is gather, rather than a fixed value based on frequency <br>
 
 ### Ethics
 
