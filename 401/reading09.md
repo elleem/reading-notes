@@ -1,0 +1,39 @@
+## Ten Thousand 4
+
+#### Things I Want to Know More About
+
+
+
+### Dunder Methods
+
+What is the purpose of dunder methods in Python? 
+
+They let you emulate the behavior of built-in types, using a data model, as if it is an API. 
+
+Provide an example of a commonly used dunder method.
+
+`__init__` is a special method to construct objects. 
+
+`__repr__` and `__str__` are for object representation, official and informal string representation
+
+`__len__`, `__getitem__`, `__reversed__` for iteration when in classes
+
+`__eq__`, `__lt__`  which are == and <
+
+`dir()` explores the attributes and methods of an object or module, can be called w/ or w/o an object. 
+
+use `__add__` to add and `__radd__` to reverse add. 
+
+use `__call__` to make objects callable, tell the method what you want it to do with items in the object. In this example, it is told to print transacations and the start amount. 
+
+### Statistics Probability
+
+### Intro to Statistics
+
+### Ethics
+
+In the video “AI Guru makes $238,800 with misleading paid course,” what was the main ethical issue raised concerning the use of developers’ work, and how might this have been avoided?
+
+### Statistics Module
+
+Describe the Python statistics module and give an example of a function within the module that can be used to perform a common statistical operation.
