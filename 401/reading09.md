@@ -26,13 +26,25 @@ use `__add__` to add and `__radd__` to reverse add.
 
 use `__call__` to make objects callable, tell the method what you want it to do with items in the object. In this example, it is told to print transacations and the start amount. 
 
+`__enter__` and `__exit__` will function as context managers
+
 ### Statistics Probability
 
 ### Intro to Statistics
 
+Statistical features, such as boxplots, created via median, max, min values. 
+
+small data is close together, grande data is further apart, the median helps you understand where the weight it is on data set. 
+
 ### Ethics
 
 In the video “AI Guru makes $238,800 with misleading paid course,” what was the main ethical issue raised concerning the use of developers’ work, and how might this have been avoided?
+
+Is it even a scam if you don't make it on Coffeezilla?
+
+Does not properly credit people who he takes code from. Does not fork repos, instead clones them. Takes literally the whole code. 
+
+Proper credits on projects. 
 
 ### Statistics Module
 
