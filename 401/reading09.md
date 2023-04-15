@@ -36,6 +36,10 @@ Statistical features, such as boxplots, created via median, max, min values.
 
 small data is close together, grande data is further apart, the median helps you understand where the weight it is on data set. 
 
+probability distribution, uniform distribution
+
+bayesian statistics versus frequentist statistics
+
 ### Ethics
 
 In the video “AI Guru makes $238,800 with misleading paid course,” what was the main ethical issue raised concerning the use of developers’ work, and how might this have been avoided?
@@ -49,3 +53,13 @@ Proper credits on projects.
 ### Statistics Module
 
 Describe the Python statistics module and give an example of a function within the module that can be used to perform a common statistical operation.
+
+Library that provides a set of function for performing basic statistical operations on numerical data. 
+
+data = [10, 20, 30, 40, 50]
+
+stdev = statistics.stdev(data)
+
+print(stdev)
+
+output: 15.811388300841896
