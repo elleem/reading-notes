@@ -30,6 +30,21 @@ use `__call__` to make objects callable, tell the method what you want it to do 
 
 ### Statistics Probability
 
+Probability: chance of event occurring, which can help us make predictions about how often events will happen based on data gathered. 
+
+Python allows us to model this process in code. 
+
+Probability distributions, ,thr normal distribution is significant to pobability and statistics thanks to two factors: the Central Limit Theorem and the Three Sigma Rule. 
+
+Central Limit Theorem: the distribution of these estimates will look like a normal distribution. We can hone in on a theoretical ideal given by probability even when we don't know the true probability. The average of many trials means will approach the true mean. 
+
+Three Sigma Rule: empirical rule or 68-95-99.7 rule, how many of our observations fall within a certain distrance of the mean. The average distance an observation in the data set is from the mean. 
+
+Given a normal distribution, 68% of your observations will fall between one standard deviation of the mean. 95% will fall within two, and 99.7% will fall within three. 
+
+Z-score is a simple calculation that answers the question: given a data point, how many standard deviations is it away from the mean? compared w/ a z-table it tabulates the cumulative probablity of a standard normal distribution up until a given z-score. a standard normal is a normal distribution wiht a mean of 0 and a standard deviation of 1. 
+
+
 ### Intro to Statistics
 
 Statistical features, such as boxplots, created via median, max, min values. 
@@ -66,7 +81,7 @@ Proper credits on projects.
 
 Describe the Python statistics module and give an example of a function within the module that can be used to perform a common statistical operation.
 
-Library that provides a set of function for performing basic statistical operations on numerical data. 
+Library that provides a set of function for performing basic statistical operations on numerical data, at the level of graphing and scientific calculators. 
 
 data = [10, 20, 30, 40, 50]
 
