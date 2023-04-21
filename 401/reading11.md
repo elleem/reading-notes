@@ -8,7 +8,19 @@
 
 What are the key features and benefits of Jupyter Lab, and how does it differ from Jupyter Notebook?
 
-Jupyter Lab offers a unified model for viewing and handling data formats, with many different allowable formats. 
+Jupyter Lab is a text editor that offers a unified model for viewing and handling data formats, with many different allowable formats. 
+
+It also allows multi-window support (side by side views), integrated terminal, drag and drop functionality.
+
+It sounds like Lab allows for multiple files vs a single file with Notebook, but both are supported. 
+
+- = to zoom, [] for rotation, 0 to reset. You could go wild with keyboard shortcuts. 
+
+Command mode when opening the notebook. Use the arrow keys to navigate. a to add a cell above, b for below, dd to delete.  y to code, m for markdown, enter to edit the currently active cell. 
+
+markdown note: create equations with $   $
+
+shift enter to run the cell
 
 ### Numpy Tutorial
 
