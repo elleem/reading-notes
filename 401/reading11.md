@@ -24,6 +24,16 @@ shift enter to run the cell
 
 ### Numpy Tutorial
 
+ssv semicolon separated values vs csv 
+
+read the data into a list of lists
+
+use the numpy.array function, pass in list of lists, will create a NumPy array with the same # of rows and columns. 
+
+zero indexed
+
+
+
 ## Numpy Arrays
 
 What are the main functionalities provided by the NumPy library, and how can it be useful in Python programming, particularly for scientific computing and data manipulation tasks?
