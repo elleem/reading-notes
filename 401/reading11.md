@@ -38,4 +38,28 @@ zero indexed
 
 What are the main functionalities provided by the NumPy library, and how can it be useful in Python programming, particularly for scientific computing and data manipulation tasks?
 
+Open source multi-dimensional array manipulation and mathematical functions, including trig, exponential and logarithms, linear algebra, and random numbers. Additionally, includes sorting, filtering, searching functions. 
+
+Allows you to perform mathematical operations on large arrays of data. 
+
 Explain the basic structure and properties of NumPy arrays, and provide examples of how to create, manipulate, and perform operations on them.
+
+ndarray, which is a collection of items of the same type, each item in the ndarray takes the same size of block in the memory.  zero-based index, that can be sliced.  Includes more numerical types than python, usch as complex_
+
+
+`print(wines[:3])`  or 
+
+```python
+import numpy as np 
+a = np.array([[1,2,3],[4,5,6]]) 
+print a.shape
+```
+
+`f = np.array([1, 2, 3]) * 2`
+
+```python 
+a = np.array([[1,2,3],[4,5,6]]) 
+a.shape = (3,2) 
+print a 
+```
+the above resizes an array, but you can also arange an ndarray, and return the length of each item in bytes. 
