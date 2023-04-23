@@ -48,7 +48,7 @@ when selecting subset of data, square brackets are used. You can use single col/
 
 use loc when using the row/ col names.   use iloc when using the positions in the table. 
 
-plot(), scatter() plot.box() or plot.area (figsize = (12,4) subplots = True) for a  visual of the information. 
+`plot()`, `scatter()` `plot.box()` or `plot.area (figsize = (12,4) subplots = True)` for a  visual of the information. 
 
 You can also define the x and y labels. Any plot created by pandas is a Matpotlib object. 
 
@@ -57,6 +57,10 @@ create a new column by assigning the output to the df with a new col name betwee
 operations are element-wise--no loops!!
 
 use rename with a dict or function to rename row labels or col names. 
+
+`groupby()` allows for split-apply-combine pattern, `mean()`, `value_counts()` shortcut to count the # of entries in each category.  
+
+Aggregation statistics can be calculated on entire rows and cols.  
 
 
 ### Pandas Tutorial
