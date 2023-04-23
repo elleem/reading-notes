@@ -38,11 +38,25 @@ What are the primary data structures in Pandas, and how do they differ in terms 
 
 2-D data structure, that can store data of different types, strings, int, floats, etc
 
-Each column is a series, but columns do not have column labels, only rows have labels. 
+Each column is a series. Columns have labels stored in the columns attribute.  Rows have labels or indexs, stored in the index attribute.  
 
 `read_*` methods read data to pandas, and the `to_*` methods store the data. 
 
 `info()` will provide technical information about the dataset
+
+when selecting subset of data, square brackets are used. You can use single col/row label, a list, a slice, a conditional or a colon. 
+
+use loc when using the row/ col names.   use iloc when using the positions in the table. 
+
+plot(), scatter() plot.box() or plot.area (figsize = (12,4) subplots = True) for a  visual of the information. 
+
+You can also define the x and y labels. Any plot created by pandas is a Matpotlib object. 
+
+create a new column by assigning the output to the df with a new col name between []
+
+operations are element-wise--no loops!!
+
+use rename with a dict or function to rename row labels or col names. 
 
 
 ### Pandas Tutorial
