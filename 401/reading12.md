@@ -79,6 +79,7 @@ There are a lot of useful string methods, use `str`, can use conditional indexin
 
 ### Pandas Tutorial
 
+Many of these videos are paywalled, but I watched what I could. They were very comprehensive. 
 
 ### What is Pandas
 
@@ -97,6 +98,8 @@ There are a lot of useful string methods, use `str`, can use conditional indexin
 6:51 covers the `plot()` for msft closing shares. 
 
 7:48 covers using the range of datatime index. 
+
+8:49 rolling average is pretty excellent. 
 
 
 ### Master Pandas
