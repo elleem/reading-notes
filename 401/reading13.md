@@ -28,9 +28,9 @@ Working to find a function that maps some features or variables to other suffici
 
 To get the best weights, minimize the sum of the squared residuals for all observations, method of ordinary least squares
 
-Underfitting: model can't accurate capture the dependencies among the data.
+Underfitting: model can't accurate capture the dependencies among the data, cannot predict new data, misses the trends in the data. 
 
-Overfitting: model learns both data dependencies and random fluctuations. Model learns the existing data too well. 
+Overfitting: model learns both data dependencies and random fluctuations. Model learns the existing data too well and describes the noise in the training data, instead of the actual relationships between the variables in the data.  
 
 ### Intro to Simple Linear Regressions
 
@@ -83,8 +83,33 @@ Finally, apply for predictions:
 
 3. What is the purpose of splitting the dataset into train and test sets, and how does this contribute to the evaluation of a machine learning model’s performance?
 
+Training set contains a known output and the model learns on this data in order to be generalized to other data later on. 
+
+The test dataset in order to test our models predictions. 
+
+Use the train_test_split function to split 80/30 or 70/30 of the data.
+
+Be sure to cross validate, which similar to train/test split, but applied to more subsets. 
+
+Two methods: K-Folds Cross Validation, and Leave One Out Cross Validation. 
+
+K-Folds uses k-1 subsets to train data and leave the last subset as test data. Then average the model against each of the fold and finalize it. Finally test it against the test set. 
+
+LOOCV--the numver of folds equals to the number of observations in the dataset, then average, and build the model w/ the average.  Test against the last fold. Best for smaller datasets. 
+
 ### What is Linear Regression
 
+common type of predictive analysis. 
+
+does a set of predictor variable do a good job in predicting an outcome variable
+
+which variables in particular are significant predictors of the outcome variable and do they predict the outcome variable? 
+
+regression analysis for: 
+
+(1) determining the strength of predictors, 
+(2) forecasting an effect, and 
+(3) trend forecasting
 
 
 
