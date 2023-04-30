@@ -33,6 +33,10 @@ The colors are amazing.
 
 ### Seaborn Tutorial
 
+A library for making statistical graphics in Python, building on matplotlib and integrating with pandas. Lets you focus on the elements of your plots, rather than the details on how to draw them.
+
+There is a default theme, but more options, and you can control style and scale. 
+
 ### Bokeh Tutorial
 
 ### Seaborn Cheat Sheet
