@@ -6,6 +6,31 @@
 
 ### Matplotlib Tutorial
 
+Allows you to illustrate data, creating a figure, plotting area, plots lines, and decorates with labels, auto generates the x values, if you only provide one value.
+
+Allows for customizing all sorts of properties, using step(), can separate lines for additional space. 
+
+`plt.xlim(X.min()*1.1, X.max()*1.1)`
+`plt.ylim(C.min()*1.1, C.max()*1.1)`
+
+Allows customization of ticks, and spines. 
+
+Use label to allow for a legend, use annoatate to add points on the illustration. 
+
+Allows transparency for overlapping items. 
+
+Allows for even more control using figures, subplot, and axes. 
+
+A figure (numbering starts from 1) in matplotlib means the whole window in the user interface. Within this figure there can be subplots. While subplot positions the plots in a regular grid, axes allows free placement within the figure. 
+
+Allows for animations, including drip drop, like rain. Must save this into a video in html in order to show it. 
+
+Wow so many links to cool tutorials, as if the earthquake demonstration weren't cool enough!
+
+There is a full list of galleries. [matplotlib gallery](https://matplotlib.org/2.0.2/gallery.html)
+
+The colors are amazing. 
+
 ### Seaborn Tutorial
 
 ### Bokeh Tutorial
