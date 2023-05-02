@@ -37,13 +37,53 @@ A library for making statistical graphics in Python, building on matplotlib and 
 
 There is a default theme, but more options, and you can control style and scale. 
 
+Use `load_dataset()` to get access to the data. 
+
+`#Create a visualization`
+`sns.relplot(`
+   `data=tips,`
+    `x="total_bill", y="tip", col="time",`
+    `hue="smoker", style="smoker", size="size",`
+`)`
+
+
 ### Bokeh Tutorial
+
+Bokeh is an interactive libary that targets web browsers w/o JavaScript. 
+
+`from bokeh.io import output_notebook, show`
+`from bokeh.plotting import figure`
+
+visual shapes in bokeh are called glyphs.
+
+You can create a scatter plot with many different shapes. 
+
+Supports two types of image display, inlcuding `image` and `image-rgba`. There are many different themes and styles. 
+
+
 
 ### Seaborn Cheat Sheet
 
+[Link to cheat Sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Seaborn_Cheat_Sheet.pdf) 
 
 1. What are the key differences between Matplotlib, Seaborn, and Bokeh libraries in terms of their features and use cases? Provide an example of a specific visualization that is more suitable for each library.
 
+Matplotlib is used for 2-D data representation, Seaborn offers even more customization than Matplotlib and built on top of Matplotlib. Bokeh is optimized for the web and is repsonsive and specific to dashboards. 
+
+Matplotlib: plots
+
+Seaborn: plots, but with even more features
+
+Bokeh: data dashboards and interactive visuals
+
 2. In the Seaborn library, what are the main functions to create relational, categorical, and distribution plots? Briefly explain the purpose of each type of plot and provide an example use case.
 
+relational: correction/relationship visualization b/n 2 numerical variables, for example the scatter plots I just submitted for Lab l2. `replot()`
+
+distribution: distribution of a numerical value, for example, density plot or violin plot, histograms.  `displot()`
+
+categorical: Visualizing categorical data. Could show mean value and its confidence interval w/i each nested category, or a swarm plot. `catplot()`
+
 3. Discuss the role of the Seaborn Cheat Sheet in a Python developer’s workflow. What are some key sections or elements featured in the cheat sheet that can help a developer quickly reference Seaborn functionalities?
+
+Well a quick reference guide is a shortcut to finding the functionality of Seaborn and find the appropriate elements that a dev would need for executing their design. Special notes to the breakout of categorical, regression, matrix, and distribution plots. 
