@@ -16,13 +16,27 @@ Allows devs to use any language, you pay for execution only.
 
 ### venv--creation virtual environments
 
+virtual environments w/ independent set of python packages installed in their site directories.
+
+A virtual environment is a self-contained Python environment that allows devs to isolate project dependencies and avoid conflicts with other projects that may require different versions of the same package.
+
+Once installed, you can use pip to install packages. 
+
+Use requirements.txt to list all the required packages to share with other developers. 
+
 ### Vercel
+
+2. How can one get started with Vercel, and what are the main steps involved in deploying a serverless function using Vercel?
 
 ### http.server
 
 ### Requests
 
+4. What is the Requests library in Python, and how can it be used to interact with APIs by sending HTTP requests? Can you provide an example of a basic GET request using the Requests library?
+
 ### Python and APIs
+
+3. What are APIs, and how can they be utilized in Python applications to access and manipulate data from external sources?
 
 ### What is Serverless? 
 
@@ -34,7 +48,7 @@ VM--resource optimization, but you still have to set up everything.
 
 Containers--Docker, packaging code and dependencies, into one structure
 
-Serverless--focused on business logic, FaaS, functions as a service, event driven architecture. 
+Serverless--focused on business logic, FaaS, functions as a service, event driven architecture. Highly available, in multiple zones, and fault tolerant.
 
 Cons--timeouts if your code does not execute within the window, latency. 
 
@@ -45,9 +59,7 @@ Cons--timeouts if your code does not execute within the window, latency.
 
 
 
-2. How can one get started with Vercel, and what are the main steps involved in deploying a serverless function using Vercel?
 
-3. What are APIs, and how can they be utilized in Python applications to access and manipulate data from external sources?
 
-4. What is the Requests library in Python, and how can it be used to interact with APIs by sending HTTP requests? Can you provide an example of a basic GET request using the Requests library?
+
 
