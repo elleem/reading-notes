@@ -46,9 +46,35 @@ Monitor via logs and analytics.
 
 ### http.server
 
+When the request handler class gets the request, it looks at the method and knows which method to use. The method doesn't need any other information because it already knows everything about the request.
+
+Finally, when the method finishes running, it sends a response back to the web page. This response is like a message telling the web page if it got what it asked for or not and sometimes appears as errors. 
+
+Supporting POST requests is a little more work, because the base class does not parse the form data automatically. 
+
+The send_header method adds header data to the HTTP response. It takes two arguments: the name of the header and the value.
+
+http.server includes a built-in server for serving files from the local file system. Start it from the command line using the -m option for the Python interpreter.
+
 ### Requests
 
 4. What is the Requests library in Python, and how can it be used to interact with APIs by sending HTTP requests? Can you provide an example of a basic GET request using the Requests library?
+
+A library that you must install that allows devs to send requests in Python and makes it easy to interact with APIs. 
+
+`import requests`
+
+`r = requests.get('https://api.github.com/events')`
+
+`r = requests.post('https://httpbin.org/post', data={'key': 'value'})`
+
+`r = requests.put('https://httpbin.org/put', data={'key': 'value'})`
+
+`r = requests.delete('https://httpbin.org/delete')`
+
+`r = requests.head('https://httpbin.org/get')`
+
+`r = requests.options('https://httpbin.org/get')`
 
 ### Python and APIs
 
