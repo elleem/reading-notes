@@ -70,6 +70,14 @@ Cons--timeouts if your code does not execute within the window, latency.
 
 ### Serverless Functions
 
+Serverless Functions enable developers to write functions in JavaScript and other languages to handle user authentication, form submissions, database queries, custom Slack commands, and more.
+
+Used via regions.
+
+Enforce a maximum execution timeout. 
+
+Leave the functions section open to see the calls in real time. 
+
 ### Effective Python Environments
 
 
