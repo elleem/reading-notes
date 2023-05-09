@@ -28,6 +28,22 @@ Use requirements.txt to list all the required packages to share with other devel
 
 2. How can one get started with Vercel, and what are the main steps involved in deploying a serverless function using Vercel?
 
+Import an existing project via git and deploy. Continue developing with the normal development workflow, run locally, view the Vercel preview, ship your changes to production, once you push to your main branch.
+
+Configure your project, using the built in development settings, or applying default routing rules based on the framework that was detected. Use json to configure additional rules. Configure API routes and environment variables. 
+
+Assign a domain. Just like netlify or use a custom domain. 
+
+Make changes with automatic deployments. They will be preview deployments on development branches, excluding production. You can set up vercel directly in the CLI. 
+
+Add compute.  Client side rendering and server side rendering. 
+
+Note: When a Serverless Function boots up from scratch, that is known as a cold boot. When it is re-used, we can say the function was warm.
+
+Re-using a function means the underlying container that hosts it does not get discarded. State, such as temporary files, memory caches, sub-processes, is preserved
+
+Monitor via logs and analytics. 
+
 ### http.server
 
 ### Requests
