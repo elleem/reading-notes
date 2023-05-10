@@ -80,6 +80,16 @@ A library that you must install that allows devs to send requests in Python and 
 
 3. What are APIs, and how can they be utilized in Python applications to access and manipulate data from external sources?
 
+Application programming inteface, a communication layer that allows different systems to talk to each other w/o having to understand exactly what each does or the rules they follow. 
+
+Make HTTP request to the API endpoints using `requests`. Still may have tokens. Returns the data to be parsed and used. 
+
+Most APIs are still REST APIs. 
+
+You can test some APIs directly fro the documentation page. 
+
+Don't forget that ? helps you specify the params of the query if you need to cut down the data. such as `gender = female`
+
 ### What is Serverless? 
 
 You are outsourcing servers to the cloud providers. 
