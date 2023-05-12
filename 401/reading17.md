@@ -47,6 +47,26 @@ The legal section was interesting.
 
 2. Explain at least three techniques or best practices that can be employed to avoid getting blocked while scraping websites.
 
+Follow the robot.txt file for scraping rules. 
+
+Crawl slowly (sleep calls in b/n requests, add some delays, choose the lowest number of concurrent requests possible, auto-throttle)
+
+Do not follow the same crawling pattern (add random clicks, mousing, and actions)
+
+Make requests thru proxies, rotate as needed using VPNs, free proxies
+
+Rotate users agents, and HTTP request headers between requests--what? you can pretend to be a google bot? 
+
+Use a headless browser, such as Pyppeteer, Selenium or Playwrite. 
+
+Beware of honey pot traps (invisible links to catch bots)
+
+Check if site is changing layouts. 
+
+avoid scraping behind a login (you have to send cookies w/ ea request to view the page)
+
+use captcha solving services
+
 ### Login and Scrape Data with Playwright and Python
 
 3. What is Playwright, and how does it assist in web scraping tasks? Provide an example of a use case where Playwright would be particularly beneficial.
