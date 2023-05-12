@@ -1,0 +1,55 @@
+## Web Scraping
+
+#### Things I Want to Know More About
+
+
+### Scrape a Dynamic Website with Python
+
+1. What are the key differences between scraping static and dynamic websites?
+
+A dynamic website can update or load content after the initial HTML load, increasing page load speed and prevent reloading each time you load a page. 
+
+Static sites load all requested information upon page load. 
+
+We need the HTML to run in the browser to see the correct values and then capture the values programmatically. 
+
+four different ways to execute dynamic website's Javascript and provide valid data for an HTML parser: 
+
+Selenium, Pyppeteer, Playwright, and Web Scraping API.
+
+- `pip install selenium`, uses a special connector--webdriver. 
+- define and setup Chrome path variable
+- define and setup Chrome webdriver path variable
+- define browser launch arguments (to use headless mode, proxy, etc.)
+- instantiate a webdriver with defined above options
+- load a webpage via instantiated webdriver
+
+Puppeteer is a high-level API to control headless Chrome, so it allows you to automate actions you're doing manually with the browser: copy page's text, download images, save page
+
+Also `pip install pyppeteer` and playwrite.
+
+ScrapingAnt web scraping API provides an ability to scrape dynamic websites with only a single API call.
+
+`pip install scrapingant-client`
+
+
+### What is Web Scraping?
+
+### How to Scrape websites without getting blocked
+
+### Login and Scrape Data with Playwright and Python
+
+### Python Playwrite Tutorial for Beginners
+
+### Beautiful Soup
+
+### Playwrite XPath Selectors
+
+
+
+
+2. Explain at least three techniques or best practices that can be employed to avoid getting blocked while scraping websites.
+
+3. What is Playwright, and how does it assist in web scraping tasks? Provide an example of a use case where Playwright would be particularly beneficial.
+
+4. Describe the purpose of using Xpath in web scraping, and provide an example of an Xpath expression to select a specific HTML element from a webpage.
