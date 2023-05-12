@@ -35,9 +35,21 @@ ScrapingAnt web scraping API provides an ability to scrape dynamic websites with
 
 ### What is Web Scraping?
 
+data scraping used for the automated extraction of data from websites. 
+
+usually with a bot or web crawler. an example would be contact scraping. 
+
+Newer forms monitor the JSON. 
+
+The legal section was interesting. 
+
 ### How to Scrape websites without getting blocked
 
+2. Explain at least three techniques or best practices that can be employed to avoid getting blocked while scraping websites.
+
 ### Login and Scrape Data with Playwright and Python
+
+3. What is Playwright, and how does it assist in web scraping tasks? Provide an example of a use case where Playwright would be particularly beneficial.
 
 ### Python Playwrite Tutorial for Beginners
 
@@ -45,11 +57,10 @@ ScrapingAnt web scraping API provides an ability to scrape dynamic websites with
 
 ### Playwrite XPath Selectors
 
-
-
-
-2. Explain at least three techniques or best practices that can be employed to avoid getting blocked while scraping websites.
-
-3. What is Playwright, and how does it assist in web scraping tasks? Provide an example of a use case where Playwright would be particularly beneficial.
-
 4. Describe the purpose of using Xpath in web scraping, and provide an example of an Xpath expression to select a specific HTML element from a webpage.
+
+
+
+
+
+
