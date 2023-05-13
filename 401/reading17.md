@@ -71,6 +71,28 @@ use captcha solving services
 
 3. What is Playwright, and how does it assist in web scraping tasks? Provide an example of a use case where Playwright would be particularly beneficial.
 
+Playwright is an open-source automation library for web testing and scraping tasks. It provides a high-level API to control web browsers, including Chromium, Firefox, and WebKit. Playwright allows developers to write automated tests and perform web scraping tasks with a single, consistent API that works across multiple browsers.
+
+Price scraping
+
+`from playwrite.sync_api import sync-playwrite`
+
+`with sync_playwrite() as p:`
+
+  `brower = p.chromium.launch(headless=False, slow_mo= 50)`
+
+  `page = browser.new_page()`
+
+  `page.goto('site address')`
+
+  query selector to use CSS, load the page, capture parts of the HTML and send to beautiful soup
+
+  easy way is using `page.innner.html()`
+
+  using the chrome dev tools to find the tags that he needs. 
+
+  `page.is_visible()`
+
 ### Python Playwrite Tutorial for Beginners
 
 ### Beautiful Soup
@@ -78,6 +100,14 @@ use captcha solving services
 ### Playwrite XPath Selectors
 
 4. Describe the purpose of using Xpath in web scraping, and provide an example of an Xpath expression to select a specific HTML element from a webpage.
+
+Xpath is a query language which scrapes the web, navigating the document structure and extracts data from HTML elements. 
+
+`//h1`
+
+`//` selects any element in the document that matches the following criteria
+
+`h1` targets `h1` elements specifically
 
 
 
