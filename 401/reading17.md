@@ -95,6 +95,10 @@ Price scraping
 
 ### Python Playwrite Tutorial for Beginners
 
+automation of web browers
+
+
+
 ### Beautiful Soup
 
 ### Playwrite XPath Selectors
