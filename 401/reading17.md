@@ -97,9 +97,18 @@ Price scraping
 
 automation of web browers
 
+tell Playwrite the address or xpath of where you want it to go
+
+can use the and operator to chain values together
+
+** right click on the element and use copy xpath **
+
+codegen phptravels.net/login  will record the script on the inspector
 
 
 ### Beautiful Soup
+
+`pip install beautifulsoup4`
 
 ### Playwrite XPath Selectors
 
@@ -112,6 +121,8 @@ Xpath is a query language which scrapes the web, navigating the document structu
 `//` selects any element in the document that matches the following criteria
 
 `h1` targets `h1` elements specifically
+
+`page.locator('//html/body')`
 
 
 
