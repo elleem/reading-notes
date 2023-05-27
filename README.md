@@ -11,7 +11,7 @@ My name is Lauren. I live in Seattle and I am currently an analyst with King Cou
 | Code 102  Intro to Software Development 🌱 | Code 201 Foundations of Software Development 🌿 | Code 301 Intermediate Software Development 🪴 | Code 401 Advanced Software Development 🌳 |
 | :--------------------------------: | :--------------------------------: | :--------------------------------: | :--------------------------------: | 
 |[Growth Mind Set](102/growthmindset.md)|[Reading 1](201/class-01.md)|[Reading 1](301/reading01.md)|[Pre-work](401/prep_work/prep_work.md)|
-|[The Command Line](102/thecommandline.md)|[Reading 2](201/class-02.md)|[Reading 2](301/reading02.md)|[Reading 1](401/reading01.md)|
+|[The Command Line](102/thecommandline.md)|[Reading 2](201/class-02.md)|[Reading 2](301/reading02.md)|[First Half Readings](401/first_half/first_half.md)|
 |[Getting Git](102/notes4ever.md)|[Reading 3](201/class-03.md)|[Reading 3](301/reading03.md)|[Reading 2](401/reading02.md)|
 |[Webpages](102/webpages.md)|[Reading 4](201/class-04.md)|[Reading 4](301/reading04.md)|[Reading 3](401/reading03.md)|
 |[CSS](102/CSS.md)|[Reading 5](201/class-05.md)|[Reading 5](301/reading05.md)|[Reading 4](401/reading04.md)|
