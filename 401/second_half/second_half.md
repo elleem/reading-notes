@@ -1,6 +1,6 @@
 ## First Half Readings
 
-[Reading 26](401/reading26.md)
+[Intro to Django](401/reading26.md)
 
 [Reading 27](401/reading27.md)
 
