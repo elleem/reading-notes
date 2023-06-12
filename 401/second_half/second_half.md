@@ -2,7 +2,7 @@
 
 [Intro to Django](reading26.md)
 
-[Reading 27](reading27.md)
+[Django Models](reading27.md)
 
 [Reading 28](reading28.md)
 
