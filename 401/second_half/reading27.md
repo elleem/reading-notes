@@ -54,3 +54,13 @@ customize permissions in `manage.py`
 ### Beginner's Guide to Django
 
 3. Briefly outline the key components and workflow of a Django application, as discussed in the Beginner’s Guide to Django. How do these components interact with each other to create a functional web application?
+
+V-views handles teh request/response for our web app
+
+U-urls for routes and paths in our project. 
+
+T-templates generate the HTML pages 
+
+Apps: composed as a set of models, views, templates and tests
+
+Projects: collection of configurations and apps. 
