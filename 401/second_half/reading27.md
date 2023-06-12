@@ -32,6 +32,25 @@ Once you create model classes, you can CRUD, run queries.
 
 2. Describe the primary features and functionality of the Django Admin interface. How can it be customized to suit the specific needs of a project?
 
+use your models to build a site area that you can use to create, view, update, and delete records. Useful for testing, and managing data in production. Allows a superuser. 
+
+Start by registering the models. 
+
+`admin.py `
+
+`from django.contrib import admin`
+
+then import the models. 
+
+customize permissions in `manage.py`
+
+
+- Each model has a list of individual records, identified by the string created with the model's __str__() method, and linked to detail views/forms for editing. By default, this view has an action menu at the top that you can use to perform bulk delete operations on records.
+
+- The model detail record forms for editing and adding records contain all the fields in the model, laid out vertically in their declaration order.
+
+- Further customize this by adding list views, detail views. 
+
 ### Beginner's Guide to Django
 
 3. Briefly outline the key components and workflow of a Django application, as discussed in the Beginner’s Guide to Django. How do these components interact with each other to create a functional web application?
