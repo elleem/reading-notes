@@ -4,7 +4,7 @@
 
 [Django Models](reading27.md)
 
-[Reading 28](reading28.md)
+[Django CRUD and Forms](reading28.md)
 
 [Reading 29](reading29.md)
 
