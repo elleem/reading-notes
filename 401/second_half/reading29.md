@@ -59,9 +59,18 @@ set an object to `MyAccountManager()`
 
 Be sure to set a property in `settings.py` `AUTH_USER = 'account.Account'`  reference the app and the model
 
+add to `admin.py`
+
 don't forget to re-migrate and re-create the superuser.
 
 ### DjangoX
 
 3. What is DjangoX and how does it complement or extend the functionality of Django? Provide an example use case for incorporating DjangoX in a project.
 
+DjangoX is an open-source project on GitHub. 
+
+A set of extensions and tools that complements and extends the functionality of Django. 
+
+DjangoX simplifies and streamlines the development process by providing additional features and utilities on top of Django.
+
+Allows for enhanced admin interface, additional field types, extensions for models and forms (custom form widgets). 
