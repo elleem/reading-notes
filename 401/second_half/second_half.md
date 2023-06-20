@@ -6,7 +6,7 @@
 
 [Django CRUD and Forms](reading28.md)
 
-[Reading 29](reading29.md)
+[Django Custom User](reading29.md)
 
 [Reading 30](reading30.md)
 
