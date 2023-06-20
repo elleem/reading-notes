@@ -38,6 +38,28 @@ set all required fields, above also set up the flags for database specific field
 
 `REQUIRED_FIELDS = ['username']`
 
+be sure to use dunder str
+
+be sure to `def permissions`
+
+be sure to `def has_module_perms`--they can change stuff in the db if they are admins
+
+additional `class MyAccountManager` to extend the `BaseUserManager`
+  `def create_user` with the required fields to create a user, need to do the same for `def create_superuser`
+
+  if not email raise an error
+
+  normalize_email will lower() all the characters in an email. only available in the BaseUserManager class. 
+
+  set_password is another method that can be used on the user object. 
+
+  set up flags for superuser, including is_admin, is_staff, is_superuser
+
+set an object to `MyAccountManager()`
+
+Be sure to set a property in `settings.py` `AUTH_USER = 'account.Account'`  reference the app and the model
+
+don't forget to re-migrate and re-create the superuser.
 
 ### DjangoX
 
