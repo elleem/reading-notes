@@ -8,7 +8,7 @@
 
 [Django Custom User](reading29.md)
 
-[Reading 30](reading30.md)
+[Hashtables](reading30.md)
 
 [Reading 31](reading31.md)
 
