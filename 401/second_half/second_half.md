@@ -10,7 +10,7 @@
 
 [Hashtables](reading30.md)
 
-[Reading 31](reading31.md)
+[Django REST Framework & Docker](reading31.md)
 
 [Reading 32](reading32.md)
 
