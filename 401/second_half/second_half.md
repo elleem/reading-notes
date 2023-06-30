@@ -12,7 +12,7 @@
 
 [Django REST Framework & Docker](reading31.md)
 
-[Reading 32](reading32.md)
+[Permissions and Postgresql](reading32.md)
 
 [Reading 33](reading33.md)
 
