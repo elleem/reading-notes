@@ -31,9 +31,19 @@ JSON tokens: when a user logs their credentials a web token will be returned.
 
 2. How does JWT Authentication integrate with Django REST Framework to secure API endpoints, and what are the key components involved in this process?
 
+By passing the token with each request, exchanges the username/password for an access token and refresh token. 
+
+Send a post request, then you get the access/ refresh tokens. 
+
+You can protect your API endpoints by adding the access token in the header of all requests. 
+
 ### Django Runserver is Not Your Production Server
 
 3. Why is Django’s built-in runserver not suitable for production environments, and what are some alternative server options that should be considered for deploying a Django application?
+
+It has not gone through security audits or performance (slow) tests. 
+
+Nginx, Gunicorn
 
 ### JWT with DRF
 
