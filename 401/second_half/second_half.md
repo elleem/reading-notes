@@ -1,4 +1,4 @@
-## First Half Readings
+## Second Half Readings
 
 [Intro to Django](reading26.md)
 
@@ -14,9 +14,9 @@
 
 [Permissions and Postgresql](reading32.md)
 
-[Reading 33](reading33.md)
+[Authentication and Production Server](reading33.md)
 
-[Reading 34](reading34.md)
+[API Deployment](reading34.md)
 
 [Reading 35](reading35.md)
 
