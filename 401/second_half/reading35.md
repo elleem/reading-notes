@@ -40,7 +40,8 @@ Cyclic Graph: Graph that contains cycles.
 Adjacency Matrix: 2D array representing connections between vertices.
 
 Adjacency List: Collection of linked lists or arrays listing connected vertices.
-Weighted Graphs:
+
+#### Weighted Graphs:
 
 Weighted Graph: Graph with numbers assigned to edges (weights).
 
