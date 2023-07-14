@@ -20,7 +20,7 @@
 
 [Graphs](reading35.md)
 
-[Reading 36](reading36.md)
+[DSA Review](reading36.md)
 
 [Reading 37](reading37.md)
 
