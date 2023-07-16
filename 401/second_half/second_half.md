@@ -22,7 +22,7 @@
 
 [DSA Review](reading36.md)
 
-[Reading 37](reading37.md)
+[React 1](reading37.md)
 
 [Reading 38](reading38.md)
 
