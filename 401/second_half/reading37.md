@@ -59,7 +59,44 @@ There is a tailwindcss extension in VS code.
 
 Highlights that you can create additional components more easily in Tailwind, vs Bootstrap due to the utility classes. 
 
-9:35 covers media queries in Tailwind.
+9:35 covers media queries in Tailwind. 
+
+use `/25` to specific transparency. 
 
 
 3. Based on “Why to use Next.js,” explain the main advantages of using Next.js for web development, and provide a brief comparison between traditional client-side rendering and Next.js’s server-side rendering approach.
+
+With React there are a few problems to solve: 
+
+  code has to be bundled using a webpack, transformed using a compiler like Bable. 
+
+  production optimizations: code splitting
+
+  statically pre-render some pages, some server side rendering, somee client side rendering
+
+  server-side code to connect React to your data store
+
+Next.js is a React framework that solves these problems. 
+
+  allows devs to automatically split code
+
+  client side rendering w/ optizmized prefetching
+
+  built in CSS, Sass support
+
+  Dev enviro with Fast Refresh support "most edits should be visible within a second, without losing component state." `//@refresh reset` to force refresh
+
+  API routes
+
+  pre-rendering is support
+
+  page-based routing system
+
+### Why I am Using Next.js
+
+With React you can only render on the client side.
+
+Next.js allows you choose the client or server side, or both, which is more scalable.
+
+Essentially, this offers faster initial page loads (pre-renders the HTML and sends to the client), improved SEO, and simplier routing. 
+
