@@ -36,6 +36,16 @@ Curly braces allow you to work with JS right in the markup, but can only use as 
 
 Double curlies allow you to pass objects into JSX, like Django. 
 
+React allows you to combine markup, CSS, and JS into custom components, reuseable UI elements. 
+
+Export the component, define the function, add markup. 
+
+Components always begin with a captial, return JSX markup. 
+
+Pass props/info to a JSX tag. Serve the same role as arguments serve for functions. 
+
+Can specify a default value with `=` can use spread syntax, which I think I remember being careful with in 301. 
+
 
 ### Utility First
 
