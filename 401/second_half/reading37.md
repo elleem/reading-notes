@@ -41,16 +41,25 @@ Double curlies allow you to pass objects into JSX, like Django.
 
 2. After reading “Tailwind in 15 minutes,” can you describe the purpose of utility classes in Tailwind CSS and provide an example of how to use them to style an HTML element?
 
-Instead of writing custom CSS designs, you can use pre-defined CSS classes that provide specific styling rules. 
+  - Instead of writing custom CSS designs, you can use pre-defined CSS classes that provide specific styling rules. 
 
-Apply the utility classes directly to your HTML classes, which is more decorative and modular method of styling elements. 
+  - Apply the utility classes directly to your HTML classes, which is more decorative and modular method of styling elements. 
 
-Also combin multiple utility classes to compose complex designs, and then use them over and over again so that you don't have to recreate them each time. 
+  - Also combin multiple utility classes to compose complex designs, and then use them over and over again so that you don't have to recreate them each time. 
 
-Ability to leverage inbuilt responsive design, rather than media queries. 
+  - Ability to leverage inbuilt responsive design, rather than media queries. 
 
-Abilty to style state variants, such as hover in the example below.
+  - Abilty to style state variants, such as hover in the example below.
 
 `<button class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">`
+
+### Tailwind in 13 min
+
+There is a tailwindcss extension in VS code. 
+
+Highlights that you can create additional components more easily in Tailwind, vs Bootstrap due to the utility classes. 
+
+9:35 covers media queries in Tailwind.
+
 
 3. Based on “Why to use Next.js,” explain the main advantages of using Next.js for web development, and provide a brief comparison between traditional client-side rendering and Next.js’s server-side rendering approach.
