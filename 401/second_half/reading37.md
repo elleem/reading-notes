@@ -46,6 +46,21 @@ Pass props/info to a JSX tag. Serve the same role as arguments serve for functio
 
 Can specify a default value with `=` can use spread syntax, which I think I remember being careful with in 301. 
 
+Think of props like knobs you can adjust, parent and child components are independent.
+
+Don't forget ({}) in order to destructure, can apply default values if no value is specified. 
+
+use the spread syntax for many props.
+
+To respond to user input use setState, state is the component's memory. useState hook
+
+You can have more than one state variable. Internally, React matches them up by their order.
+
+State is private to the component. If you render it in two places, each copy gets its own state.
+
+Effects let you synchronize a component with some external system (third-party API, network, etc).
+
+Empty dependency array ([]) corresponds to the component “mounting”, i.e. being added to the screen and may need a clean up function if they break. 
 
 ### Utility First
 

@@ -24,7 +24,7 @@
 
 [React 1](reading37.md)
 
-[Reading 38](reading38.md)
+[React 2](reading38.md)
 
 [Reading 39](reading39.md)
 
