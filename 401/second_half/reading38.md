@@ -56,4 +56,16 @@ In JSX, {cond ? <A /> : <B />} means “if cond, render <A />, otherwise <B />�
 
 In JSX, {cond && <A />} means “if cond, render <A />, otherwise nothing”.
 
+### Thinking in React
+
 3. What are the main principles behind “Thinking in React” and how do they guide the process of designing and building a React application?
+
+1. Break the UI into a component hierarchy: allows you to map components and hierachy
+
+2. Build a static version in React: a scaffold version of your app with no state and no interactivity
+
+3. Minimal but complete represenation of UI state: apply state, DRY code
+
+4. ID where your state should be applied per component: id every component that renders something based on state, find closest common parent, decide where the state should be
+
+5. Handler user input: when a user changes something, state reflects those changes
