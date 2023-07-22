@@ -8,6 +8,14 @@
 
 1. How does lifting state up in a React application help with managing data flow and what are the benefits of using this approach?
 
+When you need the state of two components to always change together: remove state from both of them, move it to their closest common parent, pass down via props. 
+
+this is lifting up state. 
+
+Allows for simplified data flow, reusability, avoid prop drilling!, single source of truth
+
+Instead of duplicating shared state between components, lift it up to their common shared parent, and pass it down to the children that need it.
+
 ### Conditional Rendering
 2. Explain the concept of conditional rendering in React and provide an example of how to implement it in a component.
 
