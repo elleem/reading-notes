@@ -6,7 +6,25 @@
 
 1. What is React Context, and how does it help in managing state and data sharing in a React application?
 
+allows us to pass and use data in whatever component we need w/o props, share state more easily, like global variables for our components. Helps avoid props drilling. 
+
+This includes theme data, user data, location specific data. 
+
+Should be data that does not need to be updated often. 
+
+To implement, create context using the createContext method, wrap the created context w/ the context provider around your component tree, put any value you like using the value prop, read that value w/in any component by using the context consumer. 
+
+
 2. Explain the useContext Hook and how it can be used to access data from a React Context within a functional component.
+
+instead of using props, we can pass the entire context object to `React.useContext()`
+
+the value is updated whenever the closest `MyContext.Provider` up the tree updates its value
+
+it returns the current context value and not the context object itself
+
+
+### Vercel Next.js Examples
 
 3. Describe the purpose of Next.js, and provide an example from the Vercel Next.js Examples reading on how it can be used to build a scalable web application
 
