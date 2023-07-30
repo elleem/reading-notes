@@ -28,9 +28,7 @@
 
 [React 3](reading39.md)
 
-[Reading 40](reading40.md)
-
-[Reading 41](reading41.md)
+[React 4](reading41.md)
 
 [Reading 42](reading42.md)
 
