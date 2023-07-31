@@ -36,9 +36,37 @@ Vercel or your own hosting provider (that supports Node.js)
 
 ### Next.js 10 is here
 
+10/27/2020 Next.js 10 launched
+
+built-in image component and optimization, even outside images. via importing `Image`
+
+improved language support
+
+analytics view is improved and robust, free for hobby plans
+
+improved e-commerce functionality
+
+`getStaticProps()` improved with FAST
+
+ability to import third party css inside of React component, ability to use datepicker without needing to import CSS in `_app.js`
+
+auto resolves `href` which likely I would not notice due to only knowing Next.js 10
+
+blocking the fallback, first blog load is empty, but now the initial request is waited on for pre-rendering
+
 ### Next.js Static File Serving
 
 3. How does Next.js handle static file serving? Discuss the default folder structure for storing static assets and explain how to reference them in a Next.js application.
 
+Static files are served via the `public` folder (I learned this early on when we were discussing which files should be deleted, because I looked this up)
 
+`public` folder is like `(/)`  
+
+also useful for `robots.txt` and `favico.ico`
+
+do not name a `public` folder in `pages/`
+
+I researched this further and discovered that for project organization you can create subdirectories. 
+
+`static/` is from 9.1 next.js
 
