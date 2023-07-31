@@ -28,6 +28,12 @@ I could see how this is all information that would fit in perfectly for the list
 
 2. Describe the process of deploying a Next.js application. What are the key steps involved, and what are some deployment platforms you can use?
 
+DPS= Develop, Preview, Ship (write your code, **push changes to a branch on github to create a preview**, merge to main)
+
+Vercel or your own hosting provider (that supports Node.js)
+
+- import your repo into Vercel (allows custom domains, environment variables, auto HTTPS)
+
 ### Next.js 10 is here
 
 ### Next.js Static File Serving
