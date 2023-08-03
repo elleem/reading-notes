@@ -30,6 +30,6 @@
 
 [React 4](reading41.md)
 
-[Reading 42](reading42.md)
+[Pythonisms](reading42.md)
 
-[Reading 43](reading43.md)
+[OSS Contributions](reading43.md)
