@@ -6,6 +6,24 @@
 
 1. What are dunder methods in Python, and how do they allow for the customization of built-in behavior in classes? Provide an example of a common dunder method and its purpose.
 
+dunder methods emulate the behavior of built in types, like `len()`
+
+`class Node:`
+`def __init__(self, value=None):`
+    `self.value = value`
+
+the above method constructs objects from the Node class, it receives the value name. 
+
+iteration dunders include `__len__, __getitem__, __reversed__`
+
+comparison dunders include `__eq__, __lt__` equal to, less than 
+
+overloading dunder includes `__add__`
+
+callable dunder includes `__call__`
+
+context dunders include `__enter__, __exit__` a context manager is an interface that your obj needs to follow, so it can be used with the **with** statement
+
 ### Iterators
 
 2. Explain the concept of an iterator in Python. How do you create a custom iterator using the iter() and next() methods, and why are they important for enabling iteration in a class?
