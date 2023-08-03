@@ -80,3 +80,34 @@ can also use a for in loop to print the range of odds
 ### Decorators
 
 4. Define decorators in Python and explain their primary use case. How can you create and apply a custom decorator to a function or method? Provide a simple example to demonstrate this concept.
+
+a decorator is a function that takes another function and extends the behavior of the latter function w/o explicitly modifying it
+
+I did not remember the side effects aspect of print, but I feel like I read this and we went over it in class. 
+
+functions can be passed and used as arguments, and returned as values
+
+`def my_decorator(func):`
+    `def wrapper():`
+        `print("Something is happening before the function is called.")`
+        `func()`
+        `print("Something is happening after the function is called.")`
+    `return wrapper`
+
+`def say_whee():`
+    `print("Whee!")`
+
+`say_whee = my_decorator(say_whee)`
+
+with the syntactic sugar of the decorator, this function becomes: 
+
+`def my_decorator(func):`
+    `def wrapper():`
+        `print("Something is happening before the function is called.")`
+        `func()`
+        `print("Something is happening after the function is called.")`
+    `return wrapper`
+
+`@my_decorator`
+`def say_whee():`
+    `print("Whee!")`
