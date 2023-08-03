@@ -10,6 +10,22 @@
 
 2. Explain the concept of an iterator in Python. How do you create a custom iterator using the iter() and next() methods, and why are they important for enabling iteration in a class?
 
+Objects that support the `__iter__` and `__next__` dunder methods automatically work with for-in loops.
+
+I think the keys here are that: 
+
+1. `__init__` links the instance with the object that created it
+2. `__next__` reaches back to the source instance and returns the value associated with it using a while loop
+3. `__iter__` is a helper class creating and returning the actual iterator object
+
+`repeater = Repeater('Hello')`
+`iterator = repeater.__iter__()`
+`while True:`
+    `item = iterator.__next__()`
+    `print(item)`
+
+iterators use exceptions to control flow. 
+
 ### Generators
 
 3. What is a generator in Python, and how does it differ from a regular function? Illustrate your answer with an example of a generator function using the ‘yield’ keyword.
