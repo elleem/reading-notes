@@ -6,7 +6,7 @@
 
 1. What are dunder methods in Python, and how do they allow for the customization of built-in behavior in classes? Provide an example of a common dunder method and its purpose.
 
-dunder methods emulate the behavior of built in types, like `len()`
+dunder methods emulate the behavior of built in types, like `len()`, providing the protocol necessary for a type of operation
 
 `class Node:`
 `def __init__(self, value=None):`
@@ -16,7 +16,7 @@ the above method constructs objects from the Node class, it receives the value n
 
 iteration dunders include `__len__, __getitem__, __reversed__`
 
-comparison dunders include `__eq__, __lt__` equal to, less than 
+comparison dunders include `__eq__, __lt__` equal to, less than and many more after researching this further!!
 
 overloading dunder includes `__add__`
 
