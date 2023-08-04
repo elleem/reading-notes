@@ -83,6 +83,10 @@ can also use a for in loop to print the range of odds
 
 a decorator is a function that takes another function and extends the behavior of the latter function w/o explicitly modifying it
 
+decorators wrap a function, modifying its behavior, w/o changing the code at the source. use the @ symbol, sometimes called pie syntax.
+
+One of the examples they gave in the reading was to allow a one second pause before loading a webpage or timing. The reading also mentions debugging, error handling, lightweight plugins, authentication, can track state, validate json, and logging.
+
 I did not remember the side effects aspect of print, but I feel like I read this and we went over it in class. 
 
 functions can be passed and used as arguments, and returned as values
