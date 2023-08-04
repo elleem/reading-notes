@@ -32,4 +32,6 @@
 
 [Pythonisms](reading42.md)
 
+[Ethics in Tech](reading42a.md)
+
 [OSS Contributions](reading43.md)

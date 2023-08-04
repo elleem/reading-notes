@@ -83,7 +83,9 @@ can also use a for in loop to print the range of odds
 
 a decorator is a function that takes another function and extends the behavior of the latter function w/o explicitly modifying it
 
-decorators wrap a function, modifying its behavior, w/o changing the code at the source. use the @ symbol, sometimes called pie syntax.
+decorators wrap a function, modifying its behavior, w/o changing the code at the source. 
+
+use the @ symbol, which is convenience syntax, makes the decorator visible, reduces the need to type the function name multiple times
 
 One of the examples they gave in the reading was to allow a one second pause before loading a webpage or timing. The reading also mentions debugging, error handling, lightweight plugins, authentication, can track state, validate json, and logging.
 
@@ -115,3 +117,12 @@ with the syntactic sugar of the decorator, this function becomes:
 `@my_decorator`
 `def say_whee():`
     `print("Whee!")`
+
+
+@classmethod creates class methods that you can call on the class itself.
+
+@staticmethod defines methods inside a class namespace that aren’t connected to a particular instance of that class.
+
+@property customizes getters and setters for class attributes.
+
+You can stack decorators. 
